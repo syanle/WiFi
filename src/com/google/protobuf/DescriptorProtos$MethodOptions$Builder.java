@@ -1,0 +1,634 @@
+// Decompiled by Jad v1.5.8e. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.geocities.com/kpdus/jad.html
+// Decompiler options: braces fieldsfirst space lnc 
+
+package com.google.protobuf;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+// Referenced classes of package com.google.protobuf:
+//            DescriptorProtos, InvalidProtocolBufferException, UninitializedMessageException, RepeatedFieldBuilder, 
+//            GeneratedMessage, UnknownFieldSet, CodedInputStream, a, 
+//            Message, MessageLite, ExtensionRegistryLite
+
+public static final class <init> extends <init>
+    implements 
+{
+
+    private int bitField0_;
+    private RepeatedFieldBuilder uninterpretedOptionBuilder_;
+    private List uninterpretedOption_;
+
+    private  buildParsed()
+        throws InvalidProtocolBufferException
+    {
+          = buildPartial();
+        if (!.lized())
+        {
+            throw newUninitializedMessageException().asInvalidProtocolBufferException();
+        } else
+        {
+            return ;
+        }
+    }
+
+    private static ProtocolBufferException create()
+    {
+        return new <init>();
+    }
+
+    private void ensureUninterpretedOptionIsMutable()
+    {
+        if ((bitField0_ & 1) != 1)
+        {
+            uninterpretedOption_ = new ArrayList(uninterpretedOption_);
+            bitField0_ = bitField0_ | 1;
+        }
+    }
+
+    public static final bitField0_ getDescriptor()
+    {
+        return DescriptorProtos.access$16100();
+    }
+
+    private RepeatedFieldBuilder getUninterpretedOptionFieldBuilder()
+    {
+        boolean flag = true;
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            List list = uninterpretedOption_;
+            if ((bitField0_ & 1) != 1)
+            {
+                flag = false;
+            }
+            uninterpretedOptionBuilder_ = new RepeatedFieldBuilder(list, flag, getParentForChildren(), isClean());
+            uninterpretedOption_ = null;
+        }
+        return uninterpretedOptionBuilder_;
+    }
+
+    private void maybeForceBuilderInitialization()
+    {
+        if (GeneratedMessage.alwaysUseFieldBuilders)
+        {
+            getUninterpretedOptionFieldBuilder();
+        }
+    }
+
+    public getUninterpretedOptionFieldBuilder addAllUninterpretedOption(Iterable iterable)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            ensureUninterpretedOptionIsMutable();
+            ll(iterable, uninterpretedOption_);
+            onChanged();
+            return this;
+        } else
+        {
+            uninterpretedOptionBuilder_.addAllMessages(iterable);
+            return this;
+        }
+    }
+
+    public ilder addUninterpretedOption(int i, ilder ilder)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            ensureUninterpretedOptionIsMutable();
+            uninterpretedOption_.add(i, ilder.build());
+            onChanged();
+            return this;
+        } else
+        {
+            uninterpretedOptionBuilder_.addMessage(i, ilder.build());
+            return this;
+        }
+    }
+
+    public ilder.build addUninterpretedOption(int i, ilder.build build1)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            if (build1 == null)
+            {
+                throw new NullPointerException();
+            } else
+            {
+                ensureUninterpretedOptionIsMutable();
+                uninterpretedOption_.add(i, build1);
+                onChanged();
+                return this;
+            }
+        } else
+        {
+            uninterpretedOptionBuilder_.addMessage(i, build1);
+            return this;
+        }
+    }
+
+    public ilder addUninterpretedOption(ilder ilder)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            ensureUninterpretedOptionIsMutable();
+            uninterpretedOption_.add(ilder.build());
+            onChanged();
+            return this;
+        } else
+        {
+            uninterpretedOptionBuilder_.addMessage(ilder.build());
+            return this;
+        }
+    }
+
+    public ilder.build addUninterpretedOption(ilder.build build1)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            if (build1 == null)
+            {
+                throw new NullPointerException();
+            } else
+            {
+                ensureUninterpretedOptionIsMutable();
+                uninterpretedOption_.add(build1);
+                onChanged();
+                return this;
+            }
+        } else
+        {
+            uninterpretedOptionBuilder_.addMessage(build1);
+            return this;
+        }
+    }
+
+    public ilder addUninterpretedOptionBuilder()
+    {
+        return (ilder)getUninterpretedOptionFieldBuilder().addBuilder(tDefaultInstance());
+    }
+
+    public ilder addUninterpretedOptionBuilder(int i)
+    {
+        return (ilder)getUninterpretedOptionFieldBuilder().addBuilder(i, tDefaultInstance());
+    }
+
+    public tDefaultInstance build()
+    {
+        tDefaultInstance tdefaultinstance = buildPartial();
+        if (!tdefaultinstance.lized())
+        {
+            throw newUninitializedMessageException(tdefaultinstance);
+        } else
+        {
+            return tdefaultinstance;
+        }
+    }
+
+    public volatile Message build()
+    {
+        return build();
+    }
+
+    public volatile MessageLite build()
+    {
+        return build();
+    }
+
+    public build buildPartial()
+    {
+        build build1 = new build(this, null);
+        int i = bitField0_;
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            if ((bitField0_ & 1) == 1)
+            {
+                uninterpretedOption_ = Collections.unmodifiableList(uninterpretedOption_);
+                bitField0_ = bitField0_ & -2;
+            }
+            _mth6702(build1, uninterpretedOption_);
+        } else
+        {
+            _mth6702(build1, uninterpretedOptionBuilder_.build());
+        }
+        onBuilt();
+        return build1;
+    }
+
+    public volatile Message buildPartial()
+    {
+        return buildPartial();
+    }
+
+    public volatile MessageLite buildPartial()
+    {
+        return buildPartial();
+    }
+
+    public volatile buildPartial clear()
+    {
+        return clear();
+    }
+
+    public clear clear()
+    {
+        super.r();
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            uninterpretedOption_ = Collections.emptyList();
+            bitField0_ = bitField0_ & -2;
+            return this;
+        } else
+        {
+            uninterpretedOptionBuilder_.clear();
+            return this;
+        }
+    }
+
+    public volatile uninterpretedOptionBuilder_ clear()
+    {
+        return clear();
+    }
+
+    public volatile clear clear()
+    {
+        return clear();
+    }
+
+    public volatile clear clear()
+    {
+        return clear();
+    }
+
+    public volatile clear clear()
+    {
+        return clear();
+    }
+
+    public clear clearUninterpretedOption()
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            uninterpretedOption_ = Collections.emptyList();
+            bitField0_ = bitField0_ & -2;
+            onChanged();
+            return this;
+        } else
+        {
+            uninterpretedOptionBuilder_.clear();
+            return this;
+        }
+    }
+
+    public volatile uninterpretedOptionBuilder_ clone()
+    {
+        return clone();
+    }
+
+    public volatile clone clone()
+    {
+        return clone();
+    }
+
+    public clone clone()
+    {
+        return create().mergeFrom(buildPartial());
+    }
+
+    public volatile buildPartial clone()
+    {
+        return clone();
+    }
+
+    public volatile clone clone()
+    {
+        return clone();
+    }
+
+    public volatile clone clone()
+    {
+        return clone();
+    }
+
+    public volatile clone clone()
+    {
+        return clone();
+    }
+
+    public volatile Object clone()
+        throws CloneNotSupportedException
+    {
+        return clone();
+    }
+
+    public clone getDefaultInstanceForType()
+    {
+        return ltInstance();
+    }
+
+    public volatile Message getDefaultInstanceForType()
+    {
+        return getDefaultInstanceForType();
+    }
+
+    public volatile MessageLite getDefaultInstanceForType()
+    {
+        return getDefaultInstanceForType();
+    }
+
+    public getDefaultInstanceForType getDescriptorForType()
+    {
+        return iptor();
+    }
+
+    public iptor getUninterpretedOption(int i)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            return (uninterpretedOptionBuilder_)uninterpretedOption_.get(i);
+        } else
+        {
+            return (uninterpretedOption_)uninterpretedOptionBuilder_.getMessage(i);
+        }
+    }
+
+    public ilder getUninterpretedOptionBuilder(int i)
+    {
+        return (ilder)getUninterpretedOptionFieldBuilder().getBuilder(i);
+    }
+
+    public List getUninterpretedOptionBuilderList()
+    {
+        return getUninterpretedOptionFieldBuilder().getBuilderList();
+    }
+
+    public int getUninterpretedOptionCount()
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            return uninterpretedOption_.size();
+        } else
+        {
+            return uninterpretedOptionBuilder_.getCount();
+        }
+    }
+
+    public List getUninterpretedOptionList()
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            return Collections.unmodifiableList(uninterpretedOption_);
+        } else
+        {
+            return uninterpretedOptionBuilder_.getMessageList();
+        }
+    }
+
+    public uilder getUninterpretedOptionOrBuilder(int i)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            return (uilder)uninterpretedOption_.get(i);
+        } else
+        {
+            return (uilder)uninterpretedOptionBuilder_.getMessageOrBuilder(i);
+        }
+    }
+
+    public List getUninterpretedOptionOrBuilderList()
+    {
+        if (uninterpretedOptionBuilder_ != null)
+        {
+            return uninterpretedOptionBuilder_.getMessageOrBuilderList();
+        } else
+        {
+            return Collections.unmodifiableList(uninterpretedOption_);
+        }
+    }
+
+    protected uninterpretedOption_ internalGetFieldAccessorTable()
+    {
+        return DescriptorProtos.access$16200();
+    }
+
+    public final boolean isInitialized()
+    {
+        int i = 0;
+_L7:
+        if (i >= getUninterpretedOptionCount()) goto _L2; else goto _L1
+_L1:
+        if (getUninterpretedOption(i).Initialized()) goto _L4; else goto _L3
+_L3:
+        return false;
+_L4:
+        i++;
+        continue; /* Loop/switch isn't completed */
+_L2:
+        if (!extensionsAreInitialized()) goto _L3; else goto _L5
+_L5:
+        return true;
+        if (true) goto _L7; else goto _L6
+_L6:
+    }
+
+    public volatile extensionsAreInitialized mergeFrom(CodedInputStream codedinputstream, ExtensionRegistryLite extensionregistrylite)
+        throws IOException
+    {
+        return mergeFrom(codedinputstream, extensionregistrylite);
+    }
+
+    public volatile mergeFrom mergeFrom(Message message)
+    {
+        return mergeFrom(message);
+    }
+
+    public volatile mergeFrom mergeFrom(CodedInputStream codedinputstream, ExtensionRegistryLite extensionregistrylite)
+        throws IOException
+    {
+        return mergeFrom(codedinputstream, extensionregistrylite);
+    }
+
+    public mergeFrom mergeFrom(CodedInputStream codedinputstream, ExtensionRegistryLite extensionregistrylite)
+        throws IOException
+    {
+        mergeFrom mergefrom = UnknownFieldSet.newBuilder(getUnknownFields());
+        do
+        {
+            int i = codedinputstream.readTag();
+            switch (i)
+            {
+            default:
+                if (!parseUnknownField(codedinputstream, mergefrom, extensionregistrylite, i))
+                {
+                    setUnknownFields(mergefrom.setUnknownFields());
+                    onChanged();
+                    return this;
+                }
+                break;
+
+            case 0: // '\0'
+                setUnknownFields(mergefrom.setUnknownFields());
+                onChanged();
+                return this;
+
+            case 7994: 
+                ilder ilder = wBuilder();
+                codedinputstream.readMessage(ilder, extensionregistrylite);
+                addUninterpretedOption(ilder.buildPartial());
+                break;
+            }
+        } while (true);
+    }
+
+    public ilder.buildPartial mergeFrom(ilder.buildPartial buildpartial)
+    {
+        RepeatedFieldBuilder repeatedfieldbuilder;
+        repeatedfieldbuilder = null;
+        if (buildpartial == ltInstance())
+        {
+            return this;
+        }
+        if (uninterpretedOptionBuilder_ != null) goto _L2; else goto _L1
+_L1:
+        if (!_mth6700(buildpartial).isEmpty())
+        {
+            if (uninterpretedOption_.isEmpty())
+            {
+                uninterpretedOption_ = _mth6700(buildpartial);
+                bitField0_ = bitField0_ & -2;
+            } else
+            {
+                ensureUninterpretedOptionIsMutable();
+                uninterpretedOption_.addAll(_mth6700(buildpartial));
+            }
+            onChanged();
+        }
+_L4:
+        mergeExtensionFields(buildpartial);
+        mergeUnknownFields(buildpartial.wnFields());
+        return this;
+_L2:
+        if (!_mth6700(buildpartial).isEmpty())
+        {
+            if (uninterpretedOptionBuilder_.isEmpty())
+            {
+                uninterpretedOptionBuilder_.dispose();
+                uninterpretedOptionBuilder_ = null;
+                uninterpretedOption_ = _mth6700(buildpartial);
+                bitField0_ = bitField0_ & -2;
+                if (GeneratedMessage.alwaysUseFieldBuilders)
+                {
+                    repeatedfieldbuilder = getUninterpretedOptionFieldBuilder();
+                }
+                uninterpretedOptionBuilder_ = repeatedfieldbuilder;
+            } else
+            {
+                uninterpretedOptionBuilder_.addAllMessages(_mth6700(buildpartial));
+            }
+        }
+        if (true) goto _L4; else goto _L3
+_L3:
+    }
+
+    public _cls6700 mergeFrom(Message message)
+    {
+        if (message instanceof _cls6700)
+        {
+            return mergeFrom((mergeFrom)message);
+        } else
+        {
+            super.eFrom(message);
+            return this;
+        }
+    }
+
+    public volatile eFrom mergeFrom(CodedInputStream codedinputstream, ExtensionRegistryLite extensionregistrylite)
+        throws IOException
+    {
+        return mergeFrom(codedinputstream, extensionregistrylite);
+    }
+
+    public volatile mergeFrom mergeFrom(Message message)
+    {
+        return mergeFrom(message);
+    }
+
+    public volatile mergeFrom mergeFrom(CodedInputStream codedinputstream, ExtensionRegistryLite extensionregistrylite)
+        throws IOException
+    {
+        return mergeFrom(codedinputstream, extensionregistrylite);
+    }
+
+    public mergeFrom removeUninterpretedOption(int i)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            ensureUninterpretedOptionIsMutable();
+            uninterpretedOption_.remove(i);
+            onChanged();
+            return this;
+        } else
+        {
+            uninterpretedOptionBuilder_.remove(i);
+            return this;
+        }
+    }
+
+    public ilder setUninterpretedOption(int i, ilder ilder)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            ensureUninterpretedOptionIsMutable();
+            uninterpretedOption_.set(i, ilder.build());
+            onChanged();
+            return this;
+        } else
+        {
+            uninterpretedOptionBuilder_.setMessage(i, ilder.build());
+            return this;
+        }
+    }
+
+    public ilder.build setUninterpretedOption(int i, ilder.build build1)
+    {
+        if (uninterpretedOptionBuilder_ == null)
+        {
+            if (build1 == null)
+            {
+                throw new NullPointerException();
+            } else
+            {
+                ensureUninterpretedOptionIsMutable();
+                uninterpretedOption_.set(i, build1);
+                onChanged();
+                return this;
+            }
+        } else
+        {
+            uninterpretedOptionBuilder_.setMessage(i, build1);
+            return this;
+        }
+    }
+
+
+
+    private ilder()
+    {
+        uninterpretedOption_ = Collections.emptyList();
+        maybeForceBuilderInitialization();
+    }
+
+    private maybeForceBuilderInitialization(maybeForceBuilderInitialization maybeforcebuilderinitialization)
+    {
+        super(maybeforcebuilderinitialization);
+        uninterpretedOption_ = Collections.emptyList();
+        maybeForceBuilderInitialization();
+    }
+
+    maybeForceBuilderInitialization(maybeForceBuilderInitialization maybeforcebuilderinitialization, a a)
+    {
+        this(maybeforcebuilderinitialization);
+    }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Ssid>
+		<!-- 公司正式外网 -->
+		<!-- <Ip>http://192.168.3.153:8080/</Ip> -->
+		<SsidString>iwifi:2,chinanet:2,ac:1,awifi:2,</SsidString>
+
+	</Ssid>
+</Config> 

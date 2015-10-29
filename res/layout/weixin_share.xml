@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/wwww" android:background="@drawable/bott_beih" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/close" android:background="@drawable/guang_tu" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="     搜索“爱WiFi联盟”，就能关注小爱的微信了哦！" android:layout_toLeftOf="@id/close" android:layout_centerVertical="true" />
+</RelativeLayout>

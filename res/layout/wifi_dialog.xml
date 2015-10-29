@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/wifi_dialog_bei" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip">
+            <TextView android:textSize="20.0dip" android:textColor="@color/wifi_dialog" android:id="@id/point" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:text="提醒：您当前未开启wifi,是否开启wifi?" android:layout_alignParentTop="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:textSize="16.0dip" android:textColor="@color/color_white" android:id="@id/watch" android:background="@drawable/wifi_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="确定" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+            <Button android:textSize="16.0dip" android:textColor="@color/color_white" android:id="@id/cancel" android:background="@drawable/wifi_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30.0dip" android:text="取消" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

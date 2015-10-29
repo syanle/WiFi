@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/rl_logintop" android:background="@drawable/top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:textSize="20.0sp" android:textColor="@color/white" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="用户信息" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <Button android:id="@id/back" android:background="@drawable/back_select" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <TextView android:textSize="20.0sp" android:textColor="@color/text_color_tip" android:id="@id/textView2" android:background="@drawable/kuang" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:layout_below="@id/rl_logintop" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="5.0dip" android:layout_below="@id/textView2" android:layout_alignParentLeft="true">
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:id="@id/continue_conn" android:background="@drawable/continue_conn_sele" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:text="继续接入" android:layout_weight="1.0" />
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:id="@id/cancel_conn" android:background="@drawable/cancel_conn_sele" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="放弃接入" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

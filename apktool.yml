@@ -1,0 +1,25 @@
+version: 2.0.2
+apkFileName: compubinfofreewifialliance-1apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '8'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '10'
+  versionName: 2.2.1
+sharedLibrary: false
+unknownFiles:
+  config/config.properties: '8'
+  org/bouncycastle/x509/CertPathReviewerMessages.properties: '8'
+  org/bouncycastle/x509/CertPathReviewerMessages_de.properties: '8'
+  org/jsoup/nodes/entities-base.properties: '8'
+  org/jsoup/nodes/entities-full.properties: '8'
+  org/apache/http/entity/mime/version.properties: '8'
+  com/tencent/javascript/js.zip: '8'
+doNotCompress:
+- resources.arsc

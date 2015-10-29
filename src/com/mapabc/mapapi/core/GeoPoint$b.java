@@ -1,0 +1,22 @@
+// Decompiled by Jad v1.5.8e. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.geocities.com/kpdus/jad.html
+// Decompiler options: braces fieldsfirst space lnc 
+
+package com.mapabc.mapapi.core;
+
+
+// Referenced classes of package com.mapabc.mapapi.core:
+//            GeoPoint
+
+public static class b
+{
+
+    public double a;
+    public double b;
+
+    public (double d, double d1)
+    {
+        a = d;
+        b = d1;
+    }
+}
