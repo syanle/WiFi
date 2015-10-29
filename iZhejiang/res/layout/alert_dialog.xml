@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/pop_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <Button android:textStyle="bold" android:id="@id/btn_message" android:background="@drawable/login_problem_bg" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="通过短信找回密码" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="0.5dip" android:src="@drawable/line" android:scaleType="fitXY" />
+        <Button android:textStyle="bold" android:id="@id/btn_email" android:background="@drawable/login_problem_bg" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="通过邮箱密码找回" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="0.5dip" android:src="@drawable/line_green" android:scaleType="fitXY" />
+        <Button android:textStyle="bold" android:textColor="@color/findpassword_text_color" android:id="@id/btn_cancel" android:background="@drawable/login_problem_bg" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="取消" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@color/black" android:scrollbars="vertical" android:fadingEdge="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/iwifi20" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="iWiFi2.0平台对接测试" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/tv_key" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="appkey:" />
+            <EditText android:id="@id/app_key" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="10001000" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/tv_secret" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="secret:" />
+            <EditText android:id="@id/secret" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="513add10608f815f4d7eaf7c6376097b" android:layout_weight="1.0" />
+        </LinearLayout>
+        <Button android:id="@id/btn_appkey" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="验证appKey有效性" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="手机号：" />
+            <EditText android:id="@id/phone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <Button android:id="@id/btn_mes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="获取验证码" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="验证码：" />
+            <EditText android:id="@id/data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <Button android:id="@id/btn_code_checkout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="提交验证码" />
+        </LinearLayout>
+        <Button android:id="@id/btn_get_ssid_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="获取路由器列表" />
+        <TextView android:id="@id/iwifi20_output_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+        <View android:background="#ffff00ff" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="10.0dip" />
+        <TextView android:id="@id/ac_authen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="统一 认证下线接口测试" />
+        <Button android:id="@id/btn_authentication" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="统一认证" />
+        <Button android:id="@id/btn_logoff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="统一下线" />
+        <EditText android:id="@id/push_info" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="15305812720,30.281357,120.149246,浙江省杭州市" />
+        <Button android:id="@id/btn_push" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="提交推送信息" />
+    </LinearLayout>
+</ScrollView>

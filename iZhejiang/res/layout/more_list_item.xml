@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="100.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="110.0dip">
+        <ImageView android:gravity="center_vertical" android:id="@id/ImageView01" android:background="@drawable/ic_launcher" android:layout_width="80.0dip" android:layout_height="80.0dip" android:layout_marginLeft="10.0dip" />
+        <TextView android:textSize="20.0sp" android:textColor="@color/black" android:ellipsize="end" android:id="@id/TextView01" android:layout_width="120.0dip" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:singleLine="true" android:layout_toRightOf="@id/ImageView01" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/country_text_color" android:ellipsize="end" android:id="@id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:singleLine="true" android:layout_toRightOf="@id/ImageView01" android:layout_below="@id/TextView01" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/country_text_color" android:id="@id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginTop="15.0dip" android:src="@color/regist_text_color" android:layout_below="@id/ImageView01" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/color_text_white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/relativeLayout1" android:background="@color/color_green" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <LinearLayout android:gravity="center" android:id="@id/left" android:layout_width="60.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true">
+            <ImageView android:id="@id/iv_pushmsg" android:background="@drawable/push_msg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <TextView android:textSize="23.0sp" android:textColor="@color/color_text_white" android:id="@id/common_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_title" android:layout_centerInParent="true" />
+        <LinearLayout android:gravity="center" android:id="@id/right" android:layout_width="60.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true">
+            <ImageView android:background="@drawable/personal_info" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/logo" android:background="@drawable/head_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/relativeLayout1" android:layout_centerHorizontal="true">
+        <ImageView android:background="@drawable/head_backgroud" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center" android:id="@id/rl_login" android:background="@drawable/login_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/logo" android:layout_centerHorizontal="true">
+        <TextView android:textSize="20.0sp" android:textColor="@color/color_green" android:id="@id/tv_login" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/mylogin" />
+        <TextView android:textSize="20.0sp" android:textColor="@color/color_green" android:id="@id/my_nick" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/edit1" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="10.0dip" android:layout_below="@id/rl_login">
+        <ImageView android:id="@id/iv1" android:background="@drawable/icon_level" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/mylevel" android:layout_toRightOf="@id/iv1" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:id="@id/tv_level" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0dip" android:text="— —" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ImageView android:id="@id/line1" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit1" />
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/edit2" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/line1">
+        <ImageView android:id="@id/iv2" android:background="@drawable/icon_jifen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/myjifen" android:layout_toRightOf="@id/iv2" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:id="@id/tv_jifen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0dip" android:text="— —" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ImageView android:id="@id/line2" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit2" />
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/edit3" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/line2">
+        <ImageView android:id="@id/iv3" android:background="@drawable/icon_times" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/mytimes" android:layout_toRightOf="@id/iv3" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:id="@id/tv_times" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0dip" android:text="— —" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</RelativeLayout>

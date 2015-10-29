@@ -1,0 +1,1350 @@
+{
+		"ver": 1,
+		"create": "2015-2-27",
+		"countrylist": [
+			{
+				"code": 244,
+				"countrycn": "安哥拉",
+				"www": "AO",
+				"time": -7,
+				"country": "Angola"
+			},
+			{
+				"code": 93,
+				"countrycn": "阿富汗",
+				"www": "AF",
+				"time": 0,
+				"country": "Afghanistan"
+			},
+			{
+				"code": 355,
+				"countrycn": "阿尔巴尼亚",
+				"www": "AL",
+				"time": -7,
+				"country": "Albania"
+			},
+			{
+				"code": 213,
+				"countrycn": "阿尔及利亚",
+				"www": "DZ",
+				"time": -8,
+				"country": "Algeria"
+			},
+			{
+				"code": 376,
+				"countrycn": "安道尔共和国",
+				"www": "AD",
+				"time": -8,
+				"country": "Andorra"
+			},
+			{
+				"code": 1264,
+				"countrycn": "安圭拉岛",
+				"www": "AI",
+				"time": -12,
+				"country": "Anguilla"
+			},
+			{
+				"code": 1268,
+				"countrycn": "安提瓜和巴布达",
+				"www": "AG",
+				"time": -12,
+				"country": "Antigua and Barbuda"
+			},
+			{
+				"code": 54,
+				"countrycn": "阿根廷",
+				"www": "AR",
+				"time": -11,
+				"country": "Argentina"
+			},
+			{
+				"code": 374,
+				"countrycn": "亚美尼亚",
+				"www": "AM",
+				"time": -6,
+				"country": "Armenia"
+			},
+			{
+				"code": 247,
+				"countrycn": "阿森松",
+				"www": null,
+				"time": -8,
+				"country": "Ascension"
+			},
+			{
+				"code": 61,
+				"countrycn": "澳大利亚",
+				"www": "AU",
+				"time": 2,
+				"country": "Australia"
+			},
+			{
+				"code": 43,
+				"countrycn": "奥地利",
+				"www": "AT",
+				"time": -7,
+				"country": "Austria"
+			},
+			{
+				"code": 994,
+				"countrycn": "阿塞拜疆",
+				"www": "AZ",
+				"time": -5,
+				"country": "Azerbaijan"
+			},
+			{
+				"code": 1242,
+				"countrycn": "巴哈马",
+				"www": "BS",
+				"time": -13,
+				"country": "Bahamas"
+			},
+			{
+				"code": 973,
+				"countrycn": "巴林",
+				"www": "BH",
+				"time": -5,
+				"country": "Bahrain"
+			},
+			{
+				"code": 880,
+				"countrycn": "孟加拉国",
+				"www": "BD",
+				"time": -2,
+				"country": "Bangladesh"
+			},
+			{
+				"code": 1246,
+				"countrycn": "巴巴多斯",
+				"www": "BB",
+				"time": -12,
+				"country": "Barbados"
+			},
+			{
+				"code": 375,
+				"countrycn": "白俄罗斯",
+				"www": "BY",
+				"time": -6,
+				"country": "Belarus"
+			},
+			{
+				"code": 32,
+				"countrycn": "比利时",
+				"www": "BE",
+				"time": -7,
+				"country": "Belgium"
+			},
+			{
+				"code": 501,
+				"countrycn": "伯利兹",
+				"www": "BZ",
+				"time": -14,
+				"country": "Belize"
+			},
+			{
+				"code": 229,
+				"countrycn": "贝宁",
+				"www": "BJ",
+				"time": -7,
+				"country": "Benin"
+			},
+			{
+				"code": 1441,
+				"countrycn": "百慕大群岛",
+				"www": "BM",
+				"time": -12,
+				"country": "Bermuda Is."
+			},
+			{
+				"code": 591,
+				"countrycn": "玻利维亚",
+				"www": "BO",
+				"time": -12,
+				"country": "Bolivia"
+			},
+			{
+				"code": 267,
+				"countrycn": "博茨瓦纳",
+				"www": "BW",
+				"time": -6,
+				"country": "Botswana"
+			},
+			{
+				"code": 55,
+				"countrycn": "巴西",
+				"www": "BR",
+				"time": -11,
+				"country": "Brazil"
+			},
+			{
+				"code": 673,
+				"countrycn": "文莱",
+				"www": "BN",
+				"time": 0,
+				"country": "Brunei"
+			},
+			{
+				"code": 359,
+				"countrycn": "保加利亚",
+				"www": "BG",
+				"time": -6,
+				"country": "Bulgaria"
+			},
+			{
+				"code": 226,
+				"countrycn": "布基纳法索",
+				"www": "BF",
+				"time": -8,
+				"country": "Burkina-faso"
+			},
+			{
+				"code": 95,
+				"countrycn": "缅甸",
+				"www": "MM",
+				"time": -1.3,
+				"country": "Burma"
+			},
+			{
+				"code": 257,
+				"countrycn": "布隆迪",
+				"www": "BI",
+				"time": -6,
+				"country": "Burundi"
+			},
+			{
+				"code": 237,
+				"countrycn": "喀麦隆",
+				"www": "CM",
+				"time": -7,
+				"country": "Cameroon"
+			},
+			{
+				"code": 1,
+				"countrycn": "加拿大",
+				"www": "CA",
+				"time": -13,
+				"country": "Canada"
+			},
+			{
+				"code": 1345,
+				"countrycn": "开曼群岛",
+				"www": null,
+				"time": -13,
+				"country": "Cayman Is."
+			},
+			{
+				"code": 236,
+				"countrycn": "中非共和国",
+				"www": "CF",
+				"time": -7,
+				"country": "Central African Republic"
+			},
+			{
+				"code": 235,
+				"countrycn": "乍得",
+				"www": "TD",
+				"time": -7,
+				"country": "Chad"
+			},
+			{
+				"code": 56,
+				"countrycn": "智利",
+				"www": "CL",
+				"time": -13,
+				"country": "Chile"
+			},
+			{
+				"code": 86,
+				"countrycn": "中国",
+				"www": "CN",
+				"time": 0,
+				"country": "China"
+			},
+			{
+				"code": 57,
+				"countrycn": "哥伦比亚",
+				"www": "CO",
+				"time": 0,
+				"country": "Colombia"
+			},
+			{
+				"code": 242,
+				"countrycn": "刚果",
+				"www": "CG",
+				"time": -7,
+				"country": "Congo"
+			},
+			{
+				"code": 682,
+				"countrycn": "库克群岛",
+				"www": "CK",
+				"time": -18.3,
+				"country": "Cook Is."
+			},
+			{
+				"code": 506,
+				"countrycn": "哥斯达黎加",
+				"www": "CR",
+				"time": -14,
+				"country": "Costa Rica"
+			},
+			{
+				"code": 53,
+				"countrycn": "古巴",
+				"www": "CU",
+				"time": -13,
+				"country": "Cuba"
+			},
+			{
+				"code": 357,
+				"countrycn": "塞浦路斯",
+				"www": "CY",
+				"time": -6,
+				"country": "Cyprus"
+			},
+			{
+				"code": 420,
+				"countrycn": "捷克",
+				"www": "CZ",
+				"time": -7,
+				"country": "Czech Republic"
+			},
+			{
+				"code": 45,
+				"countrycn": "丹麦",
+				"www": "DK",
+				"time": -7,
+				"country": "Denmark"
+			},
+			{
+				"code": 253,
+				"countrycn": "吉布提",
+				"www": "DJ",
+				"time": -5,
+				"country": "Djibouti"
+			},
+			{
+				"code": 1890,
+				"countrycn": "多米尼加共和国",
+				"www": "DO",
+				"time": -13,
+				"country": "Dominica Rep."
+			},
+			{
+				"code": 593,
+				"countrycn": "厄瓜多尔",
+				"www": "EC",
+				"time": -13,
+				"country": "Ecuador"
+			},
+			{
+				"code": 20,
+				"countrycn": "埃及",
+				"www": "EG",
+				"time": -6,
+				"country": "Egypt"
+			},
+			{
+				"code": 503,
+				"countrycn": "萨尔瓦多",
+				"www": "SV",
+				"time": -14,
+				"country": "EI Salvador"
+			},
+			{
+				"code": 372,
+				"countrycn": "爱沙尼亚",
+				"www": "EE",
+				"time": -5,
+				"country": "Estonia"
+			},
+			{
+				"code": 251,
+				"countrycn": "埃塞俄比亚",
+				"www": "ET",
+				"time": -5,
+				"country": "Ethiopia"
+			},
+			{
+				"code": 679,
+				"countrycn": "斐济",
+				"www": "FJ",
+				"time": 4,
+				"country": "Fiji"
+			},
+			{
+				"code": 358,
+				"countrycn": "芬兰",
+				"www": "FI",
+				"time": -6,
+				"country": "Finland"
+			},
+			{
+				"code": 33,
+				"countrycn": "法国",
+				"www": "FR",
+				"time": -8,
+				"country": "France"
+			},
+			{
+				"code": 594,
+				"countrycn": "法属圭亚那",
+				"www": "GF",
+				"time": -12,
+				"country": "French Guiana"
+			},
+			{
+				"code": 241,
+				"countrycn": "加蓬",
+				"www": "GA",
+				"time": -7,
+				"country": "Gabon"
+			},
+			{
+				"code": 220,
+				"countrycn": "冈比亚",
+				"www": "GM",
+				"time": -8,
+				"country": "Gambia"
+			},
+			{
+				"code": 995,
+				"countrycn": "格鲁吉亚",
+				"www": "GE",
+				"time": 0,
+				"country": "Georgia"
+			},
+			{
+				"code": 49,
+				"countrycn": "德国",
+				"www": "DE",
+				"time": -7,
+				"country": "Germany"
+			},
+			{
+				"code": 233,
+				"countrycn": "加纳",
+				"www": "GH",
+				"time": -8,
+				"country": "Ghana"
+			},
+			{
+				"code": 350,
+				"countrycn": "直布罗陀",
+				"www": "GI",
+				"time": -8,
+				"country": "Gibraltar"
+			},
+			{
+				"code": 30,
+				"countrycn": "希腊",
+				"www": "GR",
+				"time": -6,
+				"country": "Greece"
+			},
+			{
+				"code": 1809,
+				"countrycn": "格林纳达",
+				"www": "GD",
+				"time": -14,
+				"country": "Grenada"
+			},
+			{
+				"code": 1671,
+				"countrycn": "关岛",
+				"www": "GU",
+				"time": 2,
+				"country": "Guam"
+			},
+			{
+				"code": 502,
+				"countrycn": "危地马拉",
+				"www": "GT",
+				"time": -14,
+				"country": "Guatemala"
+			},
+			{
+				"code": 224,
+				"countrycn": "几内亚",
+				"www": "GN",
+				"time": -8,
+				"country": "Guinea"
+			},
+			{
+				"code": 592,
+				"countrycn": "圭亚那",
+				"www": "GY",
+				"time": -11,
+				"country": "Guyana"
+			},
+			{
+				"code": 509,
+				"countrycn": "海地",
+				"www": "HT",
+				"time": -13,
+				"country": "Haiti"
+			},
+			{
+				"code": 504,
+				"countrycn": "洪都拉斯",
+				"www": "HN",
+				"time": -14,
+				"country": "Honduras"
+			},
+			{
+				"code": 852,
+				"countrycn": "香港",
+				"www": "HK",
+				"time": 0,
+				"country": "Hongkong"
+			},
+			{
+				"code": 36,
+				"countrycn": "匈牙利",
+				"www": "HU",
+				"time": -7,
+				"country": "Hungary"
+			},
+			{
+				"code": 354,
+				"countrycn": "冰岛",
+				"www": "IS",
+				"time": -9,
+				"country": "Iceland"
+			},
+			{
+				"code": 91,
+				"countrycn": "印度",
+				"www": "IN",
+				"time": -2.3,
+				"country": "India"
+			},
+			{
+				"code": 62,
+				"countrycn": "印度尼西亚",
+				"www": "ID",
+				"time": -0.3,
+				"country": "Indonesia"
+			},
+			{
+				"code": 98,
+				"countrycn": "伊朗",
+				"www": "IR",
+				"time": -4.3,
+				"country": "Iran"
+			},
+			{
+				"code": 964,
+				"countrycn": "伊拉克",
+				"www": "IQ",
+				"time": -5,
+				"country": "Iraq"
+			},
+			{
+				"code": 353,
+				"countrycn": "爱尔兰",
+				"www": "IE",
+				"time": -4.3,
+				"country": "Ireland"
+			},
+			{
+				"code": 972,
+				"countrycn": "以色列",
+				"www": "IL",
+				"time": -6,
+				"country": "Israel"
+			},
+			{
+				"code": 39,
+				"countrycn": "意大利",
+				"www": "IT",
+				"time": -7,
+				"country": "Italy"
+			},
+			{
+				"code": 225,
+				"countrycn": "科特迪瓦",
+				"www": null,
+				"time": -6,
+				"country": "Ivory Coast"
+			},
+			{
+				"code": 1876,
+				"countrycn": "牙买加",
+				"www": "JM",
+				"time": -12,
+				"country": "Jamaica"
+			},
+			{
+				"code": 81,
+				"countrycn": "日本",
+				"www": "JP",
+				"time": 1,
+				"country": "Japan"
+			},
+			{
+				"code": 962,
+				"countrycn": "约旦",
+				"www": "JO",
+				"time": -6,
+				"country": "Jordan"
+			},
+			{
+				"code": 855,
+				"countrycn": "柬埔寨",
+				"www": "KH",
+				"time": -1,
+				"country": "Kampuchea (Cambodia )"
+			},
+			{
+				"code": 327,
+				"countrycn": "哈萨克斯坦",
+				"www": "KZ",
+				"time": -5,
+				"country": "Kazakstan"
+			},
+			{
+				"code": 254,
+				"countrycn": "肯尼亚",
+				"www": "KE",
+				"time": -5,
+				"country": "Kenya"
+			},
+			{
+				"code": 82,
+				"countrycn": "韩国",
+				"www": "KR",
+				"time": 1,
+				"country": "Korea"
+			},
+			{
+				"code": 965,
+				"countrycn": "科威特",
+				"www": "KW",
+				"time": -5,
+				"country": "Kuwait"
+			},
+			{
+				"code": 331,
+				"countrycn": "吉尔吉斯坦",
+				"www": "KG",
+				"time": -5,
+				"country": "Kyrgyzstan"
+			},
+			{
+				"code": 856,
+				"countrycn": "老挝",
+				"www": "LA",
+				"time": -1,
+				"country": "Laos"
+			},
+			{
+				"code": 371,
+				"countrycn": "拉脱维亚",
+				"www": "LV",
+				"time": -5,
+				"country": "Latvia"
+			},
+			{
+				"code": 961,
+				"countrycn": "黎巴嫩",
+				"www": "LB",
+				"time": -6,
+				"country": "Lebanon"
+			},
+			{
+				"code": 266,
+				"countrycn": "莱索托",
+				"www": "LS",
+				"time": -6,
+				"country": "Lesotho"
+			},
+			{
+				"code": 231,
+				"countrycn": "利比里亚",
+				"www": "LR",
+				"time": -8,
+				"country": "Liberia"
+			},
+			{
+				"code": 218,
+				"countrycn": "利比亚",
+				"www": "LY",
+				"time": -6,
+				"country": "Libya"
+			},
+			{
+				"code": 423,
+				"countrycn": "列支敦士登",
+				"www": "LI",
+				"time": -7,
+				"country": "Liechtenstein"
+			},
+			{
+				"code": 370,
+				"countrycn": "立陶宛",
+				"www": "LT",
+				"time": -5,
+				"country": "Lithuania"
+			},
+			{
+				"code": 352,
+				"countrycn": "卢森堡",
+				"www": "LU",
+				"time": -7,
+				"country": "Luxembourg"
+			},
+			{
+				"code": 853,
+				"countrycn": "澳门",
+				"www": "MO",
+				"time": 0,
+				"country": "Macao"
+			},
+			{
+				"code": 261,
+				"countrycn": "马达加斯加",
+				"www": "MG",
+				"time": -5,
+				"country": "Madagascar"
+			},
+			{
+				"code": 265,
+				"countrycn": "马拉维",
+				"www": "MW",
+				"time": -6,
+				"country": "Malawi"
+			},
+			{
+				"code": 60,
+				"countrycn": "马来西亚",
+				"www": "MY",
+				"time": -0.5,
+				"country": "Malaysia"
+			},
+			{
+				"code": 960,
+				"countrycn": "马尔代夫",
+				"www": "MV",
+				"time": -7,
+				"country": "Maldives"
+			},
+			{
+				"code": 223,
+				"countrycn": "马里",
+				"www": "ML",
+				"time": -8,
+				"country": "Mali"
+			},
+			{
+				"code": 356,
+				"countrycn": "马耳他",
+				"www": "MT",
+				"time": -7,
+				"country": "Malta"
+			},
+			{
+				"code": 1670,
+				"countrycn": "马里亚那群岛",
+				"www": null,
+				"time": 1,
+				"country": "Mariana Is"
+			},
+			{
+				"code": 596,
+				"countrycn": "马提尼克",
+				"www": null,
+				"time": -12,
+				"country": "Martinique"
+			},
+			{
+				"code": 230,
+				"countrycn": "毛里求斯",
+				"www": "MU",
+				"time": -4,
+				"country": "Mauritius"
+			},
+			{
+				"code": 52,
+				"countrycn": "墨西哥",
+				"www": "MX",
+				"time": -15,
+				"country": "Mexico"
+			},
+			{
+				"code": 373,
+				"countrycn": "摩尔多瓦",
+				"www": "MD",
+				"time": -5,
+				"country": "Moldova, Republic of"
+			},
+			{
+				"code": 377,
+				"countrycn": "摩纳哥",
+				"www": "MC",
+				"time": -7,
+				"country": "Monaco"
+			},
+			{
+				"code": 976,
+				"countrycn": "蒙古",
+				"www": "MN",
+				"time": 0,
+				"country": "Mongolia"
+			},
+			{
+				"code": 1664,
+				"countrycn": "蒙特塞拉特岛",
+				"www": "MS",
+				"time": -12,
+				"country": "Montserrat Is"
+			},
+			{
+				"code": 212,
+				"countrycn": "摩洛哥",
+				"www": "MA",
+				"time": -6,
+				"country": "Morocco"
+			},
+			{
+				"code": 258,
+				"countrycn": "莫桑比克",
+				"www": "MZ",
+				"time": -6,
+				"country": "Mozambique"
+			},
+			{
+				"code": 264,
+				"countrycn": "纳米比亚",
+				"www": "NA",
+				"time": -7,
+				"country": "Namibia"
+			},
+			{
+				"code": 674,
+				"countrycn": "瑙鲁",
+				"www": "NR",
+				"time": 4,
+				"country": "Nauru"
+			},
+			{
+				"code": 977,
+				"countrycn": "尼泊尔",
+				"www": "NP",
+				"time": -2.3,
+				"country": "Nepal"
+			},
+			{
+				"code": 599,
+				"countrycn": "荷属安的列斯",
+				"www": null,
+				"time": -12,
+				"country": "Netheriands Antilles"
+			},
+			{
+				"code": 31,
+				"countrycn": "荷兰",
+				"www": "NL",
+				"time": -7,
+				"country": "Netherlands"
+			},
+			{
+				"code": 64,
+				"countrycn": "新西兰",
+				"www": "NZ",
+				"time": 4,
+				"country": "New Zealand"
+			},
+			{
+				"code": 505,
+				"countrycn": "尼加拉瓜",
+				"www": "NI",
+				"time": -14,
+				"country": "Nicaragua"
+			},
+			{
+				"code": 227,
+				"countrycn": "尼日尔",
+				"www": "NE",
+				"time": -8,
+				"country": "Niger"
+			},
+			{
+				"code": 234,
+				"countrycn": "尼日利亚",
+				"www": "NG",
+				"time": -7,
+				"country": "Nigeria"
+			},
+			{
+				"code": 850,
+				"countrycn": "朝鲜",
+				"www": "KP",
+				"time": 1,
+				"country": "North Korea"
+			},
+			{
+				"code": 47,
+				"countrycn": "挪威",
+				"www": "NO",
+				"time": -7,
+				"country": "Norway"
+			},
+			{
+				"code": 968,
+				"countrycn": "阿曼",
+				"www": "OM",
+				"time": -4,
+				"country": "Oman"
+			},
+			{
+				"code": 92,
+				"countrycn": "巴基斯坦",
+				"www": "PK",
+				"time": -2.3,
+				"country": "Pakistan"
+			},
+			{
+				"code": 507,
+				"countrycn": "巴拿马",
+				"www": "PA",
+				"time": -13,
+				"country": "Panama"
+			},
+			{
+				"code": 675,
+				"countrycn": "巴布亚新几内亚",
+				"www": "PG",
+				"time": 2,
+				"country": "Papua New Cuinea"
+			},
+			{
+				"code": 595,
+				"countrycn": "巴拉圭",
+				"www": "PY",
+				"time": -12,
+				"country": "Paraguay"
+			},
+			{
+				"code": 51,
+				"countrycn": "秘鲁",
+				"www": "PE",
+				"time": -13,
+				"country": "Peru"
+			},
+			{
+				"code": 63,
+				"countrycn": "菲律宾",
+				"www": "PH",
+				"time": 0,
+				"country": "Philippines"
+			},
+			{
+				"code": 48,
+				"countrycn": "波兰",
+				"www": "PL",
+				"time": -7,
+				"country": "Poland"
+			},
+			{
+				"code": 689,
+				"countrycn": "法属玻利尼西亚",
+				"www": "PF",
+				"time": 3,
+				"country": "French Polynesia"
+			},
+			{
+				"code": 351,
+				"countrycn": "葡萄牙",
+				"www": "PT",
+				"time": -8,
+				"country": "Portugal"
+			},
+			{
+				"code": 1787,
+				"countrycn": "波多黎各",
+				"www": "PR",
+				"time": -12,
+				"country": "Puerto Rico"
+			},
+			{
+				"code": 974,
+				"countrycn": "卡塔尔",
+				"www": "QA",
+				"time": -5,
+				"country": "Qatar"
+			},
+			{
+				"code": 262,
+				"countrycn": "留尼旺",
+				"www": null,
+				"time": -4,
+				"country": "Reunion"
+			},
+			{
+				"code": 40,
+				"countrycn": "罗马尼亚",
+				"www": "RO",
+				"time": -6,
+				"country": "Romania"
+			},
+			{
+				"code": 7,
+				"countrycn": "俄罗斯",
+				"www": "RU",
+				"time": -5,
+				"country": "Russia"
+			},
+			{
+				"code": 1758,
+				"countrycn": "圣卢西亚",
+				"www": "LC",
+				"time": -12,
+				"country": "Saint Lueia"
+			},
+			{
+				"code": 1784,
+				"countrycn": "圣文森特岛",
+				"www": "VC",
+				"time": -12,
+				"country": "Saint Vincent"
+			},
+			{
+				"code": 684,
+				"countrycn": "东萨摩亚(美)",
+				"www": null,
+				"time": -19,
+				"country": "Samoa Eastern"
+			},
+			{
+				"code": 685,
+				"countrycn": "西萨摩亚",
+				"www": null,
+				"time": -19,
+				"country": "Samoa Western"
+			},
+			{
+				"code": 378,
+				"countrycn": "圣马力诺",
+				"www": "SM",
+				"time": -7,
+				"country": "San Marino"
+			},
+			{
+				"code": 239,
+				"countrycn": "圣多美和普林西比",
+				"www": "ST",
+				"time": -8,
+				"country": "Sao Tome and Principe"
+			},
+			{
+				"code": 966,
+				"countrycn": "沙特阿拉伯",
+				"www": "SA",
+				"time": -5,
+				"country": "Saudi Arabia"
+			},
+			{
+				"code": 221,
+				"countrycn": "塞内加尔",
+				"www": "SN",
+				"time": -8,
+				"country": "Senegal"
+			},
+			{
+				"code": 248,
+				"countrycn": "塞舌尔",
+				"www": "SC",
+				"time": -4,
+				"country": "Seychelles"
+			},
+			{
+				"code": 232,
+				"countrycn": "塞拉利昂",
+				"www": "SL",
+				"time": -8,
+				"country": "Sierra Leone"
+			},
+			{
+				"code": 65,
+				"countrycn": "新加坡",
+				"www": "SG",
+				"time": 0.3,
+				"country": "Singapore"
+			},
+			{
+				"code": 421,
+				"countrycn": "斯洛伐克",
+				"www": "SK",
+				"time": -7,
+				"country": "Slovakia"
+			},
+			{
+				"code": 386,
+				"countrycn": "斯洛文尼亚",
+				"www": "SI",
+				"time": -7,
+				"country": "Slovenia"
+			},
+			{
+				"code": 677,
+				"countrycn": "所罗门群岛",
+				"www": "SB",
+				"time": 3,
+				"country": "Solomon Is"
+			},
+			{
+				"code": 252,
+				"countrycn": "索马里",
+				"www": "SO",
+				"time": -5,
+				"country": "Somali"
+			},
+			{
+				"code": 27,
+				"countrycn": "南非",
+				"www": "ZA",
+				"time": -6,
+				"country": "South Africa"
+			},
+			{
+				"code": 34,
+				"countrycn": "西班牙",
+				"www": "ES",
+				"time": -8,
+				"country": "Spain"
+			},
+			{
+				"code": 94,
+				"countrycn": "斯里兰卡",
+				"www": "LK",
+				"time": 0,
+				"country": "Sri Lanka"
+			},
+			{
+				"code": 1758,
+				"countrycn": "圣卢西亚",
+				"www": "LC",
+				"time": -12,
+				"country": "St.Lucia"
+			},
+			{
+				"code": 1784,
+				"countrycn": "圣文森特",
+				"www": "VC",
+				"time": -12,
+				"country": "St.Vincent"
+			},
+			{
+				"code": 249,
+				"countrycn": "苏丹",
+				"www": "SD",
+				"time": -6,
+				"country": "Sudan"
+			},
+			{
+				"code": 597,
+				"countrycn": "苏里南",
+				"www": "SR",
+				"time": -11.3,
+				"country": "Suriname"
+			},
+			{
+				"code": 268,
+				"countrycn": "斯威士兰",
+				"www": "SZ",
+				"time": -6,
+				"country": "Swaziland"
+			},
+			{
+				"code": 46,
+				"countrycn": "瑞典",
+				"www": "SE",
+				"time": -7,
+				"country": "Sweden"
+			},
+			{
+				"code": 41,
+				"countrycn": "瑞士",
+				"www": "CH",
+				"time": -7,
+				"country": "Switzerland"
+			},
+			{
+				"code": 963,
+				"countrycn": "叙利亚",
+				"www": "SY",
+				"time": -6,
+				"country": "Syria"
+			},
+			{
+				"code": 886,
+				"countrycn": "台湾省",
+				"www": "TW",
+				"time": 0,
+				"country": "Taiwan"
+			},
+			{
+				"code": 992,
+				"countrycn": "塔吉克斯坦",
+				"www": "TJ",
+				"time": -5,
+				"country": "Tajikstan"
+			},
+			{
+				"code": 255,
+				"countrycn": "坦桑尼亚",
+				"www": "TZ",
+				"time": -5,
+				"country": "Tanzania"
+			},
+			{
+				"code": 66,
+				"countrycn": "泰国",
+				"www": "TH",
+				"time": -1,
+				"country": "Thailand"
+			},
+			{
+				"code": 228,
+				"countrycn": "多哥",
+				"www": "TG",
+				"time": -8,
+				"country": "Togo"
+			},
+			{
+				"code": 676,
+				"countrycn": "汤加",
+				"www": "TO",
+				"time": 4,
+				"country": "Tonga"
+			},
+			{
+				"code": 1809,
+				"countrycn": "特立尼达和多巴哥",
+				"www": "TT",
+				"time": -12,
+				"country": "Trinidad and Tobago"
+			},
+			{
+				"code": 216,
+				"countrycn": "突尼斯",
+				"www": "TN",
+				"time": -7,
+				"country": "Tunisia"
+			},
+			{
+				"code": 90,
+				"countrycn": "土耳其",
+				"www": "TR",
+				"time": -6,
+				"country": "Turkey"
+			},
+			{
+				"code": 993,
+				"countrycn": "土库曼斯坦",
+				"www": "TM",
+				"time": -5,
+				"country": "Turkmenistan"
+			},
+			{
+				"code": 256,
+				"countrycn": "乌干达",
+				"www": "UG",
+				"time": -5,
+				"country": "Uganda"
+			},
+			{
+				"code": 380,
+				"countrycn": "乌克兰",
+				"www": "UA",
+				"time": -5,
+				"country": "Ukraine"
+			},
+			{
+				"code": 971,
+				"countrycn": "阿拉伯联合酋长国",
+				"www": "AE",
+				"time": -4,
+				"country": "United Arab Emirates"
+			},
+			{
+				"code": 44,
+				"countrycn": "英国",
+				"www": "GB",
+				"time": -8,
+				"country": "United Kiongdom"
+			},
+			{
+				"code": 1,
+				"countrycn": "美国",
+				"www": "US",
+				"time": -13,
+				"country": "United States of America"
+			},
+			{
+				"code": 598,
+				"countrycn": "乌拉圭",
+				"www": "UY",
+				"time": -10.3,
+				"country": "Uruguay"
+			},
+			{
+				"code": 233,
+				"countrycn": "乌兹别克斯坦",
+				"www": "UZ",
+				"time": -5,
+				"country": "Uzbekistan"
+			},
+			{
+				"code": 58,
+				"countrycn": "委内瑞拉",
+				"www": "VE",
+				"time": -12.3,
+				"country": "Venezuela"
+			},
+			{
+				"code": 84,
+				"countrycn": "越南",
+				"www": "VN",
+				"time": -1,
+				"country": "Vietnam"
+			},
+			{
+				"code": 967,
+				"countrycn": "也门",
+				"www": "YE",
+				"time": -5,
+				"country": "Yemen"
+			},
+			{
+				"code": 381,
+				"countrycn": "南斯拉夫",
+				"www": "YU",
+				"time": -7,
+				"country": "Yugoslavia"
+			},
+			{
+				"code": 263,
+				"countrycn": "津巴布韦",
+				"www": "ZW",
+				"time": -6,
+				"country": "Zimbabwe"
+			},
+			{
+				"code": 243,
+				"countrycn": "扎伊尔",
+				"www": "ZR",
+				"time": -7,
+				"country": "Zaire"
+			},
+			{
+				"code": 260,
+				"countrycn": "赞比亚",
+				"www": "ZM",
+				"time": -6,
+				"country": "Zambia"
+			}
+		]
+}

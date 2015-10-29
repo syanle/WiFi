@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/main" android:background="@color/color_text_white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_gravity="center_vertical" android:id="@id/loading" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/page_inner_loading" />
+    <include android:id="@id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="48.0dip" layout="@layout/common_title" />
+    <LinearLayout android:gravity="center" android:id="@id/edit1" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="20.0dip" android:layout_below="@id/relativeLayout1">
+        <TextView android:textSize="18.0sp" android:textColor="@color/countrycode_text_color" android:gravity="center" android:id="@id/country_code" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="86" android:layout_weight="5.0" />
+        <ImageView android:id="@id/line1" android:layout_width="0.5dip" android:layout_height="60.0dip" android:src="@drawable/line" android:scaleType="fitXY" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:gravity="center" android:id="@id/country_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="中国" android:layout_weight="13.0" />
+    </LinearLayout>
+    <EditText android:textSize="18.0sp" android:textColor="@color/regist_text_color" android:id="@id/et_phone" android:background="@drawable/login_backgroud" android:paddingLeft="14.0dip" android:paddingRight="14.0dip" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="18.0dip" android:hint="输入手机号码" android:layout_below="@id/edit1" android:inputType="number" />
+    <ImageView android:id="@id/line2" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/et_phone" />
+    <EditText android:textSize="18.0sp" android:textColor="@color/regist_text_color" android:id="@id/et_password1" android:background="@drawable/login_backgroud" android:paddingLeft="14.0dip" android:paddingRight="14.0dip" android:layout_width="fill_parent" android:layout_height="60.0dip" android:hint="设置密码" android:digits="@string/register_name_digits" android:layout_below="@id/line2" android:inputType="textPassword" />
+    <ImageView android:id="@id/line3" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/et_password1" />
+    <EditText android:textSize="18.0sp" android:textColor="@color/regist_text_color" android:id="@id/et_password2" android:background="@drawable/login_backgroud" android:paddingLeft="14.0dip" android:paddingRight="14.0dip" android:layout_width="fill_parent" android:layout_height="60.0dip" android:hint="再次输入密码" android:digits="@string/register_name_digits" android:layout_below="@id/line3" android:inputType="textPassword" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/et_password2">
+        <LinearLayout android:gravity="center" android:id="@id/radioButton1" android:layout_width="30.0dip" android:layout_height="30.0dip">
+            <ImageButton android:layout_gravity="center" android:id="@id/ib_radioButton1" android:layout_width="14.0dip" android:layout_height="14.0dip" android:checked="true" />
+        </LinearLayout>
+        <TextView android:textSize="13.0sp" android:textColor="@color/country_text_color" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="注册代表你同意" />
+        <Button android:textSize="13.0sp" android:textColor="@color/findpassword_text_color" android:layout_gravity="center" android:id="@id/text1" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="爱浙江网络使用协议" />
+        <TextView android:textSize="13.0sp" android:textColor="@color/country_text_color" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="和" />
+        <Button android:textSize="13.0sp" android:textColor="@color/findpassword_text_color" android:layout_gravity="center" android:id="@id/text2" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="隐私条款" />
+    </LinearLayout>
+</RelativeLayout>

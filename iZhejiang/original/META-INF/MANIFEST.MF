@@ -1,0 +1,1387 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/skyblue_logo_kakaotalk.png
+SHA1-Digest: +gFL82w/C/wPGQhfzBdvwRcT3n4=
+
+Name: res/anim/lan_loading.xml
+SHA1-Digest: t3eFpZC+HDi2uXjLqSKPDp95Lro=
+
+Name: res/drawable-xhdpi/conect_wifi1.png
+SHA1-Digest: Cq9mIeSfZOokH+dEHDJKtljygF8=
+
+Name: res/drawable-xhdpi/skyblue_logo_vkontakte.png
+SHA1-Digest: oZjNxZ5FqY6kaOwoSnX6wefkTdA=
+
+Name: org/xbill/DNS/spi/services/sun.net.spi.nameservice.NameServiceDe
+ scriptor
+SHA1-Digest: IXyonM4TRigCa5bxYl6a/PNiv/8=
+
+Name: res/anim/push_bottom_out.xml
+SHA1-Digest: 4ECrGNP7Y2IqsZ/zU1SjOJxohP8=
+
+Name: pinyindb/pinyin_mapping.xml
+SHA1-Digest: JhFa/00VWw+Wrqd7VdypGEYziPc=
+
+Name: res/drawable-xhdpi/skyblue_logo_evernote.png
+SHA1-Digest: 0DGl6QNxUlv6RgGSBQLWcv8Kr1U=
+
+Name: res/layout/personinfomation_dialog.xml
+SHA1-Digest: SLyBtfvOzdlEFlsTiIcaDl0kaxA=
+
+Name: res/drawable/btn_towards.xml
+SHA1-Digest: /kgoDdQqYKVYDbLVbydKz6qDEQA=
+
+Name: res/layout/regist.xml
+SHA1-Digest: 8GvDY5zKV/VIKodxfzqzVeeTN3s=
+
+Name: res/layout/country_code.xml
+SHA1-Digest: x9JbZhzkmLIwi9g6Cbbi7IVSPYI=
+
+Name: res/drawable-hdpi/huncun2.png
+SHA1-Digest: Px9V7hXbH2wBUccKCXmzhYF1FGc=
+
+Name: assets/Icon_line_node.png
+SHA1-Digest: dK/CGB9imvWReQfRrkGjiDX2mkI=
+
+Name: res/drawable-xhdpi/logo_pocket.png
+SHA1-Digest: DhxOmAU0WHszniqYLS60YdOHZwI=
+
+Name: res/drawable-xhdpi/tab_around1.png
+SHA1-Digest: 0Lrp/LepUj5BNkrYk6L4cIIrmqM=
+
+Name: res/drawable/web_towards.xml
+SHA1-Digest: Jao5eWjPpFkVLq7vpUpa+9qRVRQ=
+
+Name: res/drawable-xhdpi/head_backgroud.png
+SHA1-Digest: ADx2qOOi+3Nv+xjIUl8IB8oGsOQ=
+
+Name: res/drawable-xhdpi/loading_bei2.png
+SHA1-Digest: QXwSqUvlvbrkHhB6085tz4bC0GM=
+
+Name: res/drawable-xhdpi/logo_youdao.png
+SHA1-Digest: pgvpHenF7cpbjw5ZaLfBs+H2lto=
+
+Name: res/drawable-xhdpi/business_01.png
+SHA1-Digest: y1N9/PHzLLNL2FKfKz9KLdExZ0w=
+
+Name: res/drawable-xhdpi/connect_unsafety.png
+SHA1-Digest: y949ZzsdRWa6rdxR+SN4kYPb6w4=
+
+Name: res/drawable-xhdpi/personal_setting.png
+SHA1-Digest: cKFy7FTlnjIouDspGDVwjyX8bTk=
+
+Name: res/layout/skyblue_editpage.xml
+SHA1-Digest: vahyU4JZJ085TlXghOPQP4fzq38=
+
+Name: assets/Icon_mark10.png
+SHA1-Digest: brhelZiL1AZTlMx8OTzOldR2G7A=
+
+Name: res/drawable-xhdpi/defalt_union.png
+SHA1-Digest: sVL5elckTRg5+YQnj+aXD9s7a4k=
+
+Name: res/drawable-xhdpi/tab_application2.png
+SHA1-Digest: sNacm//qhxyzK01qoFzsW5/KhNQ=
+
+Name: res/drawable-xhdpi/wifi_ignal2.png
+SHA1-Digest: JBsNCHQ1mygjvxmlTK6TQV50D1E=
+
+Name: assets/ShareSDK.xml
+SHA1-Digest: dWBxIj4/ITf/qDXbMCcF17P7kNA=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/drawable/skyblue_platform_list_item_selected.xml
+SHA1-Digest: yAY1vrUv0JAB7nzyNRfPzZd5RBE=
+
+Name: res/drawable-xhdpi/edit_text.png
+SHA1-Digest: PV+2A/WZuJBNgFILR6Ic2kR2qQU=
+
+Name: res/layout/nfc.xml
+SHA1-Digest: DLptqdBhrjqFe7tMUqIYiUwascE=
+
+Name: res/drawable-xhdpi/logo_wechatfavorite.png
+SHA1-Digest: TU1DRxLXD0h5Pqj0DuEQmhzmWGk=
+
+Name: res/drawable-xhdpi/skyblue_actionbar_back_btn.png
+SHA1-Digest: P16+zxy9aQLYvjckxI/moudVZTU=
+
+Name: org/jsoup/nodes/entities-full.properties
+SHA1-Digest: AFSgQ5iKN+T46TMZbysEx2T32t8=
+
+Name: res/layout/push_message.xml
+SHA1-Digest: 19nEfPl3ZF+gfh8IiPCOMKgT3WI=
+
+Name: res/layout/zoom_controls_in_out.xml
+SHA1-Digest: X8YvGiDFcDuEon5mChT/NoEZsfw=
+
+Name: res/layout/regist_first.xml
+SHA1-Digest: WTjhysMFHKk7ONrp0hBQTC8JVRw=
+
+Name: res/drawable-hdpi/huncun9.png
+SHA1-Digest: B0sklz5puN7ce2EHzmLZ2nAJMA8=
+
+Name: res/drawable-hdpi/loading8_lan.png
+SHA1-Digest: Y+7D2R2kYFku/QeoseO8aB6EVcM=
+
+Name: res/drawable-hdpi/logo_icon.png
+SHA1-Digest: h0n2uIm/e3qwkV37l5T3KkYDrDk=
+
+Name: res/drawable-xhdpi/skyblue_logo_mingdao_checked.png
+SHA1-Digest: 0SWOssntLSdzKqNIor3aEh+rmzM=
+
+Name: resources.arsc
+SHA1-Digest: 2zOzwpCsCNQ9Gcjfk24QXyUCbNA=
+
+Name: res/drawable-xhdpi/main_sign.png
+SHA1-Digest: G9DnIMlG+UYzmvRsluiMNWIBXfk=
+
+Name: res/drawable-xhdpi/skyblue_logo_evernote_checked.png
+SHA1-Digest: y79IqNSAVrM9vr4XYscbpKnjICM=
+
+Name: res/drawable-xhdpi/logo_twitter.png
+SHA1-Digest: uUeEzosvKI882+kxC4xRoR1z6Iw=
+
+Name: res/drawable-xhdpi/skyblue_logo_yixin.png
+SHA1-Digest: bk+CKdBTkZYc/Od7LgK+Gjetvs8=
+
+Name: res/drawable-xhdpi/business_08.png
+SHA1-Digest: 8+azDIWh70eqaPkOlSICjcA74Mo=
+
+Name: res/drawable-hdpi/loading_bei.png
+SHA1-Digest: vLMsPLnPNVEiT6myPaa4LBKieGo=
+
+Name: res/drawable-xhdpi/tab_help1.png
+SHA1-Digest: vIGc76Twt15Y8Udza6OuVJWjcb0=
+
+Name: res/drawable-xhdpi/skyblue_logo_laiwangmoments.png
+SHA1-Digest: SGt1zgBgxmC3hEf1gbkC3fpagdA=
+
+Name: assets/Icon_mark3.png
+SHA1-Digest: 10OVxu8Hw/b6BCt9qISWaAsJCEU=
+
+Name: res/drawable-xhdpi/logo_mingdao.png
+SHA1-Digest: VTtOx8JAUATC69MVr1YSUNNxTAA=
+
+Name: org/xbill/DNS/windows/DNSServer_de.properties
+SHA1-Digest: W0bUF5LxcR8Q01waz9KmVvysPL0=
+
+Name: assets/Icon_walk_route.png
+SHA1-Digest: /ms0l+rN0Zkzr/GD/nbaJPgD5Zs=
+
+Name: res/layout/re_password.xml
+SHA1-Digest: HXE1gkbHuCbRICGlmKDvMOXL+tY=
+
+Name: res/drawable-xhdpi/title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: tp3aKiJ5SH6tmDvS9KReDJqdBR0=
+
+Name: res/layout/xlistview_header.xml
+SHA1-Digest: qEd+rdD/Ij5CIf/huUvGcRBNr0Y=
+
+Name: res/drawable-xhdpi/login_problem_bg.png
+SHA1-Digest: 5GLjlqrz4fnZ/ZUFfSimNVFr0ig=
+
+Name: assets/cfg/l/DVVersion.cfg
+SHA1-Digest: JjUkhjmYUlWY9mO6cTTs7Cq1krI=
+
+Name: res/drawable-hdpi/shuaxin_d.png
+SHA1-Digest: GfvU2PCWmzAvJ29gw7QS2c16DeY=
+
+Name: res/drawable-xhdpi/skyblue_logo_linkedin.png
+SHA1-Digest: 1duZDOqYL6UtSAz/Tv9DYP26cVw=
+
+Name: res/layout/skyblue_editpage_at_layout.xml
+SHA1-Digest: rkKM9EA4+QrJ0zlCOGYk9TEudCA=
+
+Name: res/drawable-mdpi/empty_photo.png
+SHA1-Digest: T86xB+SOtreChzhQIpT5IPgda+Y=
+
+Name: res/drawable-xhdpi/skyblue_logo_facebook.png
+SHA1-Digest: xmIeow/+O0/xNjFkuyKPj4+Blqg=
+
+Name: res/drawable-xhdpi/logo_bluetooth.png
+SHA1-Digest: cnZJ7vg+t4P/O78FN6L108saBMw=
+
+Name: assets/place/iconphone.png
+SHA1-Digest: jfeqsGDvXJu4n98/RwoKWS1AXHQ=
+
+Name: res/drawable-xhdpi/business_02.png
+SHA1-Digest: +4PQgRh0Q37q2KEO7zbbcQAXcZc=
+
+Name: res/drawable-hdpi/wifi_cancel_d.png
+SHA1-Digest: /gzjanFFPiwARGg+G3oXleyXSCE=
+
+Name: res/layout/edit_info.xml
+SHA1-Digest: XKq/1I+PX6ZGHYPY5/rMXcCmHY8=
+
+Name: res/drawable-xhdpi/light_blue_point.png
+SHA1-Digest: zocvd8Be5c+Qdyh/BW0VPyoFJJo=
+
+Name: res/layout/connect.xml
+SHA1-Digest: kKD6h0gLltcqBGb42s9TgOpJvd8=
+
+Name: res/drawable-xhdpi/skyblue_logo_whatsapp.png
+SHA1-Digest: V4SuhcRDn2KPSJviLDwrwVXXOYE=
+
+Name: res/drawable-xhdpi/skyblue_logo_email.png
+SHA1-Digest: W82SFjQ3/qLS+8e3I6pQ0slofuI=
+
+Name: res/layout/scroll.xml
+SHA1-Digest: ALb/8ac2v1Kv3NQogfw6echNHwQ=
+
+Name: res/drawable-xhdpi/icon_shua.png
+SHA1-Digest: 0O7gbTb5hNjdiafQwFn7oh3Ermg=
+
+Name: res/drawable-xhdpi/skyblue_platform_checked_disabled.png
+SHA1-Digest: knruN4XslE9zL23iJ0w2VqtKYcI=
+
+Name: res/layout/more_list_item.xml
+SHA1-Digest: 5CFbntpeVWLq7TmU0qpacbKAqbY=
+
+Name: res/drawable-xhdpi/skyblue_logo_shortmessage_checked.png
+SHA1-Digest: dRwd/P2IYH47aqVb0ltlPzvDGtA=
+
+Name: res/drawable-xhdpi/defalt_chinanet.png
+SHA1-Digest: kuU0D1Oa1R0+84cCI1OT8JwN+Ho=
+
+Name: res/layout/regist_second.xml
+SHA1-Digest: zFPR8tuGpbZIqpHCjRwb9mZetlg=
+
+Name: res/drawable-hdpi/huncun1.png
+SHA1-Digest: ln/np7Zo0rgnDE/DYtKvFR0UmrM=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: WDRx3P++9qr9uRsNkEoaowJ3zMM=
+
+Name: res/layout/find_password.xml
+SHA1-Digest: /UYgkEahb/jdA4Ms2KRt8OXACh0=
+
+Name: res/drawable-xhdpi/logo_wechat.png
+SHA1-Digest: G/pXSTfACj3pSNAdyPhi9GP04a0=
+
+Name: res/drawable-xhdpi/wifi_ignal1.png
+SHA1-Digest: Z9BpTjXqeRRzcssZ0M2bt5xoO/Y=
+
+Name: res/drawable-hdpi/attention_icon.png
+SHA1-Digest: JUG434GEz7ikprZ2GTQx0JBF3dk=
+
+Name: res/layout/main_application.xml
+SHA1-Digest: i1/dZrVxF0gy0RpArnpRlp31o0U=
+
+Name: assets/cfg/l/DVHotMap.cfg
+SHA1-Digest: QDy7zXuBlzO1yvSe0qWNZURB6Z0=
+
+Name: res/drawable-xhdpi/skyblue_logo_wechatfavorite_checked.png
+SHA1-Digest: sTaDtp7viaocnWq+GScKvY5Ylw0=
+
+Name: res/layout/main_demo.xml
+SHA1-Digest: u9lHgoSKqSnk3GtnsJgkjRWgyF8=
+
+Name: res/drawable-xhdpi/business_07.png
+SHA1-Digest: EAVY7qudYpuCyUC8J8ms3pWHj/E=
+
+Name: res/drawable-hdpi/jin_d.png
+SHA1-Digest: Gp3R7La7i+JaagmmWT9zZ7u2630=
+
+Name: res/layout/splash.xml
+SHA1-Digest: PPI8OMIlfLulFCtidKopNUe6b14=
+
+Name: res/drawable-xhdpi/application_right.png
+SHA1-Digest: 0LrzNuCqNETZ0WM/m7/G5E/A8sU=
+
+Name: assets/Icon_subway_station.png
+SHA1-Digest: 8FR6NAAChDPCs8r2j53QSLY4GQg=
+
+Name: res/drawable-hdpi/update_detail_down.png
+SHA1-Digest: /XItrPPiKO3ZGYMd+T5jd5KI0cU=
+
+Name: assets/Icon_mark2.png
+SHA1-Digest: NHBeA/o9A//4UUN6/FBMPcIK0Yc=
+
+Name: assets/cfg/a/mapstyle.sty
+SHA1-Digest: YQkRv3hpAW+3yaICazAk6s8LRZM=
+
+Name: res/drawable-xhdpi/personal_info.png
+SHA1-Digest: v9R8KwksSqA18nS4xuMx/R04FhQ=
+
+Name: res/drawable-xhdpi/skyblue_logo_line_checked.png
+SHA1-Digest: 1lSlUV9JRR2dW79IvD4Qen9kuqg=
+
+Name: res/drawable-xhdpi/skyblue_logo_shortmessage.png
+SHA1-Digest: 4H/bO7i2hEzasr4BNgRhFtXdOoE=
+
+Name: res/drawable/btn_back.xml
+SHA1-Digest: HszFNTOlOwlI5ABuY4rq7kDQga4=
+
+Name: res/drawable-xhdpi/skyblue_logo_wechat.png
+SHA1-Digest: 61qXEU0gmvQjtYA4AD0eo6t4+UU=
+
+Name: res/drawable-hdpi/loading1_lan.png
+SHA1-Digest: OfRP21Jv6NF0Xt4DrEZjojBoxks=
+
+Name: res/layout/login.xml
+SHA1-Digest: iQycaMCfyQ0IqsSxiJRgm4ntB1Q=
+
+Name: res/drawable-hdpi/regist_commit.png
+SHA1-Digest: 85XgeFtwg8zQnEzPrmMKPM2DXCw=
+
+Name: res/drawable-xhdpi/auth_follow_cb_unc.png
+SHA1-Digest: Du78zAJA6b0nLhl6JhpMJyA3Qwo=
+
+Name: res/drawable-xhdpi/logo_icon.png
+SHA1-Digest: QKYtl+u01J+k61GLfHhp3MQTpnI=
+
+Name: res/drawable-xhdpi/skyblue_logo_instagram.png
+SHA1-Digest: kRS3lAntGEOMBphackbMtn3WJxI=
+
+Name: res/drawable-xhdpi/defalt_other.png
+SHA1-Digest: KyO8uaR3g0TTKNLrmCfctPhgywI=
+
+Name: res/drawable-xhdpi/skyblue_logo_qq_checked.png
+SHA1-Digest: u09N4J8C72y3OY3OPkdHKgBzYTY=
+
+Name: res/layout/comment.xml
+SHA1-Digest: RTMRbBgyHvDhiZSKLJfYmN1j8mA=
+
+Name: res/layout/main_help.xml
+SHA1-Digest: DD76IMu/vFvU/YWSVbSKXT703vY=
+
+Name: org/xbill/DNS/windows/DNSServer_pl.properties
+SHA1-Digest: X0JxK98YG2m9b2EJ5ywMah1GhyU=
+
+Name: res/layout/common_title.xml
+SHA1-Digest: /HXKW5fT/VzyUCcv6uT0ZOOuA3g=
+
+Name: res/layout/alert_sharedialog.xml
+SHA1-Digest: pdKdakhUft48JF/O5BuN4edHvck=
+
+Name: res/drawable-xhdpi/wifi_ignal4.png
+SHA1-Digest: EoafjLwJF3FdUYuj4su5WSOPOXs=
+
+Name: res/drawable-xhdpi/defalt_other_list.png
+SHA1-Digest: vu5AFntRet6DAFnTzhw2jyItHTk=
+
+Name: res/drawable/web_close.xml
+SHA1-Digest: KaQ6uxIUVfeEeQdQk2B6rMRRmQw=
+
+Name: res/layout/skyblue_editpage_inc_image_layout.xml
+SHA1-Digest: GHyzL66PhCyjn/VSZfkaoNJGsKk=
+
+Name: res/drawable-xhdpi/logo_kaixin.png
+SHA1-Digest: CjbX+U8hra9XNdSTos1rdkxz310=
+
+Name: res/drawable-xhdpi/skyblue_logo_tumblr.png
+SHA1-Digest: VdJ0TwqSTAnSmL40tuG6r6Y90is=
+
+Name: res/drawable-xhdpi/connect_chinanet.png
+SHA1-Digest: nliMxBNyGGR/p3d0jg7e2pt5R4k=
+
+Name: res/drawable-xhdpi/skyblue_logo_wechatfavorite.png
+SHA1-Digest: j3hp4Cj9NVcAOa9BBYW+V09nEko=
+
+Name: res/drawable-xhdpi/towards.png
+SHA1-Digest: uC9ekdopfRMQV7zQ7hQZpVDzt/c=
+
+Name: res/drawable-xhdpi/logo_kakaotalk.png
+SHA1-Digest: QImJj+u+8YoY3je666hdD0+HePQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_shake_to_share_back.xml
+SHA1-Digest: uHJhgi1FfQrlh5OkNincSfjxQno=
+
+Name: res/drawable-xhdpi/wifi_off.png
+SHA1-Digest: FhF2va0NjJvECjGuOGaYyGiiqIk=
+
+Name: res/drawable-xhdpi/down_bei.png
+SHA1-Digest: D4xFoyLMhhQvlBSjHBkMLDHW/cc=
+
+Name: res/layout/item.xml
+SHA1-Digest: XNxA5BiLIA9hGnBkKzAl96oyMLA=
+
+Name: res/drawable-xhdpi/check_false.png
+SHA1-Digest: OytwQQRwbPe4NHgHf5t0Ij6garY=
+
+Name: res/drawable-hdpi/loading4_lan.png
+SHA1-Digest: LnJSgJsHfUJCD1APqRqytGM0SDo=
+
+Name: res/drawable-xhdpi/checkcross.png
+SHA1-Digest: G9MtC4NxggNb1p+rmk4MuBpX1II=
+
+Name: res/layout/hide_menu.xml
+SHA1-Digest: yi3uiY1LPODPGJI3aqRPGuGzCzg=
+
+Name: assets/Icon_mark4.png
+SHA1-Digest: aO+806mdGudhrfRnuuWXiewohpQ=
+
+Name: assets/place/star_gray.png
+SHA1-Digest: ZhunaWgBCc8swMOBU+nJhSW/njg=
+
+Name: res/drawable-xhdpi/username.png
+SHA1-Digest: I8oiGrmjxJhvNmSuSZBJ2naexnw=
+
+Name: res/layout/introduce.xml
+SHA1-Digest: YJCN/5pbiWoWvNmr69BM1JZN0tM=
+
+Name: res/drawable-xhdpi/logo_email.png
+SHA1-Digest: ulb4rEsmI3ikw1G1TaUd/AWfIbQ=
+
+Name: res/layout/cache_item.xml
+SHA1-Digest: pa2Kj/4sJZ4mUCc/sW2qejh8tFg=
+
+Name: res/drawable-xhdpi/conect_wifi3.png
+SHA1-Digest: lsxPsYUxhDkZ9SBerJk/xpJ0FO4=
+
+Name: res/drawable-xhdpi/niu01d.png
+SHA1-Digest: ra27dxAKPBI80pdBg5XbkthQ8Yw=
+
+Name: res/drawable-xhdpi/btn_msg1.png
+SHA1-Digest: U20TQdf7FPS9EXAPYbfYl3vjx0w=
+
+Name: res/drawable-xhdpi/business_03.png
+SHA1-Digest: PHGOx0J53RVr5bcC4WuyK8jKv/4=
+
+Name: res/drawable-xhdpi/logo_vkontakte.png
+SHA1-Digest: qH3X3wSssc9hsXk+fDOLTcQ9HXE=
+
+Name: res/drawable-xhdpi/connect_typeotherdefault.png
+SHA1-Digest: QtTvm2o2d1RowG9vh9X430C+0p4=
+
+Name: res/drawable-xhdpi/skyblue_logo_pocket.png
+SHA1-Digest: UgYdb/0e+hJZlg1oxOlk9OhomDU=
+
+Name: res/drawable-xhdpi/map_controlbg.png
+SHA1-Digest: p6oX2slRwi84Nxp13sCYSxShR78=
+
+Name: res/drawable-xhdpi/logo_instagram.png
+SHA1-Digest: W8HByjvYzRb6tgdgyHvti44ukyI=
+
+Name: res/drawable-xhdpi/connect_safety.png
+SHA1-Digest: oFFZ5hJtBryzA5wGPfgcd/NM028=
+
+Name: res/drawable-xhdpi/skyblue_logo_facebookmessenger_checked.png
+SHA1-Digest: yfigC4PxDtvHWjaW4amy+pO5qlg=
+
+Name: res/drawable/wifi_ok.xml
+SHA1-Digest: W23mLQ/IRSYOZnoo6XSpbCmJByU=
+
+Name: res/drawable-xhdpi/skyblue_logo_douban.png
+SHA1-Digest: ABF6lvBi+H2OTIuqKF57IFEgUok=
+
+Name: assets/logo_l.png
+SHA1-Digest: WwqUEYbcRtro7LUcYuofXSP0AWc=
+
+Name: res/layout/horizontalmore.xml
+SHA1-Digest: fvy845gcu4/s2l8QEEqBobuvsXg=
+
+Name: res/drawable-xhdpi/skyblue_actionbar_ok_btn.png
+SHA1-Digest: oXmkDeSiTuz+JPINuzlzysTBKxc=
+
+Name: res/drawable-xhdpi/business_06.png
+SHA1-Digest: v8QJhIJxJHv2QvkOeuIRZQJL/6E=
+
+Name: res/drawable-xhdpi/skyblue_logo_kaixin_checked.png
+SHA1-Digest: +BFKzibOJB7FxmdhaqhQYv4ciHM=
+
+Name: res/drawable-xhdpi/checkmark.png
+SHA1-Digest: 2SpOdbTsyiWwvM4wb9ehGpz5e+o=
+
+Name: res/drawable-xhdpi/skyblue_logo_qzone_checked.png
+SHA1-Digest: SpfYFk2S7oJ4oi/clGdsZV/mQ8Q=
+
+Name: res/drawable-hdpi/ssdk_oks_ptr_ptr.png
+SHA1-Digest: 9kd0AO5yW4Cw2dCQSVxHH0y4eCM=
+
+Name: res/drawable-xhdpi/logo_foursquare.png
+SHA1-Digest: u2Wxcxc96GE/pg+7IjUn6WPjn8M=
+
+Name: res/drawable-xhdpi/logo_kakaostory.png
+SHA1-Digest: Zm/eChRJp7wNPv9OTMU1mxGDoos=
+
+Name: res/drawable-xhdpi/zhuxiao_commit.png
+SHA1-Digest: Y4MjRgRV+Jx0OsNRu14r7WfX9i8=
+
+Name: res/drawable-hdpi/huncun11.png
+SHA1-Digest: tYhhlZDa2f25JpW899fuJ67yNNk=
+
+Name: res/layout/around_more.xml
+SHA1-Digest: EaA2EvvHu5Y2oAPPR/NM3o5Mc6M=
+
+Name: res/drawable-xhdpi/skyblue_logo_tencentweibo_checked.png
+SHA1-Digest: e4IZ4I90u08w0F4ViAYsQGSjwz8=
+
+Name: res/drawable/checkbox_yesno.xml
+SHA1-Digest: 6iPtEuK/Nu/L6HChMhaLe8d8KrA=
+
+Name: res/layout/skyblue_share_platform_list_item.xml
+SHA1-Digest: mmCAnb/hyK3gflEUbhShVpgYs0g=
+
+Name: res/drawable-xhdpi/skyblue_logo_twitter_checked.png
+SHA1-Digest: JIvX1bHs9K3rrsgrT+gRi9mOh9A=
+
+Name: res/drawable-xhdpi/tab_my2.png
+SHA1-Digest: 890E9dUlpQtS8CiWjbk5iWH43vw=
+
+Name: res/drawable/msg_select.xml
+SHA1-Digest: PemUl5beFumEy2L9S45drG/e1qM=
+
+Name: res/layout/activity_index_gallery_item.xml
+SHA1-Digest: sqgo89gGG1y4JlbV+dcp7q5e2uQ=
+
+Name: res/drawable-xhdpi/check_true.png
+SHA1-Digest: y5DJp6F7G+GBQSMu9Zlm1Sf94o8=
+
+Name: res/drawable-xhdpi/skyblue_logo_renren_checked.png
+SHA1-Digest: Mf3ZNqa532NbKelQoiM9z5mRWE8=
+
+Name: assets/usercenter_message_no_image.png
+SHA1-Digest: k7vkW/y/DYe0FxjZuVex3Kbd87s=
+
+Name: res/drawable-hdpi/huncun4.png
+SHA1-Digest: Q1Hf7s1Xb8otSDit8CWDCbQ/XIc=
+
+Name: res/drawable-hdpi/huncun3.png
+SHA1-Digest: tpOwkHeSbgXvGmH5Jt03jzJ8gEU=
+
+Name: assets/Icon_start.png
+SHA1-Digest: U0bO85R4iXAolnKrTCo/XWsbh5Q=
+
+Name: res/drawable-xhdpi/tab_around2.png
+SHA1-Digest: ranikj6vb7xX/mqSubT2oKnWlhI=
+
+Name: res/layout/page_inner_loading.xml
+SHA1-Digest: +K8LsitDNby2oUXptbsqro8GR+U=
+
+Name: res/drawable-hdpi/wifi_dialog_bei.png
+SHA1-Digest: i6bcwrEsGJ/USrY8UQSuxQKtPwI=
+
+Name: res/drawable-xhdpi/application_icon.png
+SHA1-Digest: 3Yf7VBXKd2j3g8ByoJ5ziiE3JTw=
+
+Name: res/drawable-xhdpi/wifi_ignal3.png
+SHA1-Digest: oK8gwzi6Wlpp7sKP4H1nbDnn2Xs=
+
+Name: res/drawable-hdpi/loading_bei2.png
+SHA1-Digest: QXwSqUvlvbrkHhB6085tz4bC0GM=
+
+Name: res/drawable-xhdpi/skyblue_editpage_divider.9.png
+SHA1-Digest: wWcCnRoRMdFsRpYyHE+UUu3eb+A=
+
+Name: res/drawable-xhdpi/skyblue_editpage_image_remove.png
+SHA1-Digest: o4aH9//dYubOBnt7xM3t4h9wERQ=
+
+Name: res/drawable-xhdpi/conect_wifi2.png
+SHA1-Digest: cLfPf3gAv/1qYlYi/Ghn6YuzX10=
+
+Name: res/drawable/next_btn.xml
+SHA1-Digest: 8jkr15SY/hXThG3YH/yHqWrRjIo=
+
+Name: res/layout/loading.xml
+SHA1-Digest: +rw6EwGVP+PHGXmbxda8sL2O4r8=
+
+Name: res/drawable-xxhdpi/iwifi_logo2.png
+SHA1-Digest: JOBw5WJnYh8AZaUrCn5vmiS7GEQ=
+
+Name: res/drawable-xhdpi/title_shadow.png
+SHA1-Digest: LALhXzWajUQxP3OEPz9GPgH0DTc=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: res/drawable-xhdpi/logo_whatsapp.png
+SHA1-Digest: 2i3QuMmwTysY42uYxYZq5SFGIF4=
+
+Name: res/drawable-xhdpi/skyblue_logo_instagram_checked.png
+SHA1-Digest: AwSztOYTTK0nE00FIlxSLPL/Guo=
+
+Name: res/drawable-xhdpi/btn_msg2.png
+SHA1-Digest: CCWbNQVNKDTUq3HYhFwrtBEURc8=
+
+Name: res/drawable-xhdpi/skyblue_editpage_bg.9.png
+SHA1-Digest: P7IRxfdiUsTRzM4tMuJnE7aTWf8=
+
+Name: res/drawable-xhdpi/skyblue_logo_pinterest_checked.png
+SHA1-Digest: k5xRm0N72Tf620z8p9teEjs3Cbk=
+
+Name: assets/cfg/h/DVDirectory.cfg
+SHA1-Digest: OLZcdUQFgfQ92zLvF0gOXIfwFT8=
+
+Name: res/drawable-xhdpi/password.png
+SHA1-Digest: v5by4Ggn7dBdsJsUVaSZoXz620c=
+
+Name: res/drawable-xhdpi/business_04.png
+SHA1-Digest: riwhTinYa+96baiSe982jm8GT0A=
+
+Name: res/drawable-mdpi/iwifi_logo2.png
+SHA1-Digest: JOBw5WJnYh8AZaUrCn5vmiS7GEQ=
+
+Name: res/layout/skyblue_share_actionbar.xml
+SHA1-Digest: sJwMx0lFWO2Y8sxDp4U7lInXIzo=
+
+Name: res/drawable-xhdpi/attention_icon.png
+SHA1-Digest: 69biw4Fnm1AWDM3nLWA5rRxWfn8=
+
+Name: org/jsoup/nodes/entities-base.properties
+SHA1-Digest: GGECs3/ztDnWbYv+CYzxzkBnoq4=
+
+Name: res/drawable-xhdpi/ssdk_back_arr.png
+SHA1-Digest: Rxbe81v2AIEM7XxW8FOEQrQfDqA=
+
+Name: assets/Icon_mark5.png
+SHA1-Digest: fhXU60vSeWOscJdoLYlS5RHB4xU=
+
+Name: res/drawable-xhdpi/skyblue_logo_pocket_checked.png
+SHA1-Digest: 8+uA/a75AuZf5ngwKR22gujSpp0=
+
+Name: res/drawable-xhdpi/blue_point.png
+SHA1-Digest: FQdLF8wVGjyb2ECZHwx1j7hDuRY=
+
+Name: res/drawable-xhdpi/logo_line.png
+SHA1-Digest: 30kisNBr0toYZFFeTkllsiptuTc=
+
+Name: res/drawable-xhdpi/push_msg.png
+SHA1-Digest: OSQQDwkch26T+O9DtTnb7ECsd8g=
+
+Name: res/drawable-xhdpi/tab_help2.png
+SHA1-Digest: 1b5a3HLWTwOij1RhxThHr9lQy04=
+
+Name: res/drawable-xhdpi/connect_fail.png
+SHA1-Digest: H1ohsx5g5oWtyr/3hgfW0g+v1LE=
+
+Name: res/drawable-xhdpi/skyblue_logo_sohusuishenkan.png
+SHA1-Digest: gnMgutQKSnY4bpe58htpChrL/Kw=
+
+Name: assets/countrycode.json
+SHA1-Digest: kH6KQbE2KV2GOgWK7kfyhKORA2U=
+
+Name: res/raw/androidpn.properties
+SHA1-Digest: y2dbsgxchc1RSBEelj/zAHWr1uQ=
+
+Name: res/drawable-xhdpi/logo_douban.png
+SHA1-Digest: zzHxqnXLcSiVYmvCsHYimrfF/xw=
+
+Name: res/drawable-xhdpi/icon_hd.png
+SHA1-Digest: 0cx1Zsy6NRKDsKx2bUwuQkZFq1o=
+
+Name: res/drawable-xhdpi/tab_my1.png
+SHA1-Digest: u5H6Ix/1kf+gMdVrVRo/LgKRM0s=
+
+Name: res/layout/cut_image.xml
+SHA1-Digest: 5EB+ZehYeELv6hRixE4DWwqciFg=
+
+Name: res/drawable-xhdpi/skyblue_logo_tencentweibo.png
+SHA1-Digest: S64oIECwol9stSkn2QUM7XgZGlI=
+
+Name: res/layout/alert_dialog_findpassword.xml
+SHA1-Digest: Ky7eqoWCi5+vwdCy4IGgX5DTKO0=
+
+Name: res/drawable-xhdpi/skyblue_logo_foursquare_checked.png
+SHA1-Digest: 5D1gbfjyWkEvz0atMqkqB1ETx+s=
+
+Name: res/drawable-xhdpi/skyblue_logo_kakaotalk_checked.png
+SHA1-Digest: VBWHAahQ2QFTYlPRW+DqQi2+xTQ=
+
+Name: assets/place/arrow.png
+SHA1-Digest: 3gWKzf1rnroxvdMjcciXamNV3vk=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: res/drawable-xhdpi/skyblue_logo_googleplus.png
+SHA1-Digest: Al/Nd4VJNLC7stWPPWV2Hencdsg=
+
+Name: res/layout/welcome_page.xml
+SHA1-Digest: O9IygiqiPo9s9l4/loewcwrUcAw=
+
+Name: res/drawable-xhdpi/business_05.png
+SHA1-Digest: gBf3dQVGpi8jGZ5DrfwO3eKdhyQ=
+
+Name: res/anim/wifi_loading.xml
+SHA1-Digest: BMGRwDogJfjcZpmUpgcsD3fNv/w=
+
+Name: res/drawable-xhdpi/connect_typeother.png
+SHA1-Digest: S5sRdp2kIgOmHjGWAiMrRN2/5uk=
+
+Name: res/drawable-hdpi/loading5_lan.png
+SHA1-Digest: m1P9vB8TR594VP4xzmhovyLsoyU=
+
+Name: res/drawable-xhdpi/head_logo.png
+SHA1-Digest: V4G/W76sgDQhS3g/LcMbpaPAE3A=
+
+Name: assets/Icon_end.png
+SHA1-Digest: LBMaCfaSy+zZcqGqKqu/dkvhnK0=
+
+Name: res/drawable-xhdpi/skyblue_logo_bluetooth.png
+SHA1-Digest: fAJQ0PakAoy81UyeevZqjhss+CQ=
+
+Name: assets/404.html
+SHA1-Digest: Yk8kwCfhdaC6ZHb8Fm8rzRwhRaE=
+
+Name: res/drawable-xhdpi/logo_facebookmessenger.png
+SHA1-Digest: 2T0MPMgUUz04KqzmxjylWtMqXJ8=
+
+Name: res/drawable-xhdpi/skyblue_logo_flickr_checked.png
+SHA1-Digest: Zp/VlQ1rjH8B0Id3ztLV45RguP8=
+
+Name: res/drawable-xhdpi/push_msg2.png
+SHA1-Digest: 3uFPMTaUx6UDjfYoDEP675QbTsY=
+
+Name: res/drawable-xhdpi/skyblue_logo_renren.png
+SHA1-Digest: XPiXNnXcs7MvqWtCTSGGNNJ7644=
+
+Name: assets/sapi_cert.cer
+SHA1-Digest: odtjk5FvF+QYVQlABBXHAkCwrms=
+
+Name: res/drawable-xhdpi/ssdk_oks_yaoyiyao.png
+SHA1-Digest: dqUGQ19sqlrOmEx9v50fZTnajpI=
+
+Name: res/layout/main_ssid.xml
+SHA1-Digest: zUbMhw1YRbpax0p88EZMKLZVXNg=
+
+Name: res/drawable-xhdpi/line.png
+SHA1-Digest: Cyc9kzFt6fbPyTUUVfzPWSwNb9U=
+
+Name: assets/Icon_mark6.png
+SHA1-Digest: sLqXOe/Pkf8RC0la1z7FEJtfrbw=
+
+Name: res/drawable-xhdpi/logo_qzone.png
+SHA1-Digest: tcfUq77aOBQoDGD0UI105dbRL3s=
+
+Name: res/drawable-hdpi/update_detail_up.png
+SHA1-Digest: ejnp4ddRJ72tdwhaLhU84n/aoWU=
+
+Name: res/drawable-xhdpi/logo_tumblr.png
+SHA1-Digest: R5zc5Kq+BwUY4bVgDCqej3mezA4=
+
+Name: res/drawable-xhdpi/icon_jifen.png
+SHA1-Digest: PHSXIvRR0u++5FRb8icKm7n57ys=
+
+Name: res/drawable-xhdpi/skyblue_editpage_close.png
+SHA1-Digest: txmJxAjvgTE1qsDASiGz/Eywsbc=
+
+Name: res/layout/map_nowifi.xml
+SHA1-Digest: ofgmeKXaUgDBqNNtUFyRqbYkbRI=
+
+Name: res/drawable-xhdpi/skyblue_logo_kaixin.png
+SHA1-Digest: 0OsdZqLfcevsaDrmkXfxjUUax4M=
+
+Name: res/drawable-xhdpi/iwifi_logo2.png
+SHA1-Digest: JOBw5WJnYh8AZaUrCn5vmiS7GEQ=
+
+Name: res/drawable-xhdpi/logo_linkedin.png
+SHA1-Digest: lW2RZaRiu+Hk8DdaNc4/ThNFWdg=
+
+Name: res/drawable-xhdpi/auth_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: res/layout/map_dialog.xml
+SHA1-Digest: fQdWBDS3rkYHXyOF1OoRhSqNw3E=
+
+Name: res/anim/push_bottom_in2.xml
+SHA1-Digest: XrbNRgvhJtNW7WIVmKse0+E2hP8=
+
+Name: org/xbill/DNS/windows/DNSServer_fr.properties
+SHA1-Digest: eEsG/3EHGXgoVAR/PGVSAj7ZVEY=
+
+Name: res/drawable-xhdpi/icon_level.png
+SHA1-Digest: atoeG9J3PpEXyy40mt5zCS0kZaI=
+
+Name: res/drawable-xhdpi/main_4btnbackground.png
+SHA1-Digest: WF/ScOPGK4NxkQWPP7G045oynkY=
+
+Name: assets/CMRequire.dat
+SHA1-Digest: HvCt5Fa6OKoxWE0PvOZH0Lp0s5k=
+
+Name: AndroidManifest.xml
+SHA1-Digest: oYIxbVs4U2Awf28R1jtk+IzeLYc=
+
+Name: res/drawable-xhdpi/tab_ssid1.png
+SHA1-Digest: Zr7VmXtmRdb8hPQUo6hy/Ugstsg=
+
+Name: assets/place/star_light.png
+SHA1-Digest: 3W39VFHIddj6kPuGgSeyQFaHPSU=
+
+Name: res/drawable-xhdpi/logo_dropbox.png
+SHA1-Digest: 9rS980XHIIAplisYZi5XKBpLPvY=
+
+Name: res/drawable-xhdpi/skyblue_logo_facebookmessenger.png
+SHA1-Digest: L9e+JG6HB5q6EvHo940bOc1L4PI=
+
+Name: res/layout/push_webview.xml
+SHA1-Digest: 4OOte5GqYPIYK47MMZ94YniMAgg=
+
+Name: res/layout/wifi_dialog.xml
+SHA1-Digest: uWSyJxlT55cFURp2EhVfiby9cH4=
+
+Name: res/drawable-xhdpi/logo.png
+SHA1-Digest: YP2Ef6XvbZ8LMcxIY/9J2aiq/ss=
+
+Name: pinyindb/pinyin_gwoyeu_mapping.xml
+SHA1-Digest: zOXgdBvcrFpkkBcbF2gURP/KoOA=
+
+Name: res/drawable-hdpi/wifi_ok.png
+SHA1-Digest: e0oXD8t/7dQt+sPIYXneYDsMZ+s=
+
+Name: res/drawable-xhdpi/logo_evernote.png
+SHA1-Digest: zPCWHzvLx9zwRR5LKrPwMdj1U00=
+
+Name: res/drawable-xhdpi/main_near.png
+SHA1-Digest: sEVK3IlRfL4IMa1agCs+6NDujgo=
+
+Name: assets/Icon_bus_station.png
+SHA1-Digest: ijMexAQ0II7KUGYEiaaiHPUGw44=
+
+Name: res/drawable-xhdpi/list_background.png
+SHA1-Digest: 5+6/er9JXjv/w7W+chT08Z2nofg=
+
+Name: res/drawable-xhdpi/map_small.png
+SHA1-Digest: lJ8rzzkwfjS4WFiqksc/hPw/9fo=
+
+Name: res/drawable-xhdpi/skyblue_logo_sohumicroblog_checked.png
+SHA1-Digest: rC5lU6QuebrKSE5eW0Nt3lTbsIY=
+
+Name: res/drawable-hdpi/huncun6.png
+SHA1-Digest: 8Szo9gebxYMw/JTbLMTI650/Mrk=
+
+Name: res/drawable/btn_stop.xml
+SHA1-Digest: 8FZy4ZYc9HiBek7uFiQlqH2qzCA=
+
+Name: res/drawable-hdpi/loading3_lan.png
+SHA1-Digest: OoK6ds3XhaSoxB0+1XtgmP4WoS4=
+
+Name: lib/armeabi/liblocSDK4d.so
+SHA1-Digest: JML3PsMjI9jw6siLWHMa4zNuTJM=
+
+Name: res/drawable-xhdpi/back.png
+SHA1-Digest: 0Dtir0h5VPxHDy+KePnwNLYvfB4=
+
+Name: res/drawable-xhdpi/logo_tencentweibo.png
+SHA1-Digest: KVTIckfY7uUyZjVp183pl2qwZpY=
+
+Name: res/drawable-xhdpi/skyblue_logo_linkedin_checked.png
+SHA1-Digest: sOiJwiyF1yzpScnNIAHh9zuh3eU=
+
+Name: res/drawable-xhdpi/re_02.png
+SHA1-Digest: 0P/dcQdK8bI9NWXFMKkaj7nhW7k=
+
+Name: res/drawable-xhdpi/xlistview_arrow.png
+SHA1-Digest: SJakT8RpH2kU71okfQWpwe1M8WU=
+
+Name: res/drawable-xhdpi/main_share.png
+SHA1-Digest: aGUXPJ3r5cbnKR5ZonjZ8hcNgiI=
+
+Name: res/drawable-xhdpi/btn_maplocation.png
+SHA1-Digest: C61jHs2jTLyH9fDVuHeKuptQ4jU=
+
+Name: res/drawable-hdpi/jin.png
+SHA1-Digest: m7LED/HYIaD2y+VIoLUN32nqvV0=
+
+Name: assets/izj-xieyi.html
+SHA1-Digest: jGYBP2c7sRW5yMfgUfok1hiW31E=
+
+Name: res/drawable-xhdpi/connect_ping.png
+SHA1-Digest: GVL0s2vL2XSKg3LRpJ+0Iq3lR1Q=
+
+Name: res/drawable-xhdpi/skyblue_logo_bluetooth_checked.png
+SHA1-Digest: lO7DxNr1iguLG8ZyNgd2cVAa/nk=
+
+Name: res/drawable-xhdpi/skyblue_logo_yixinmoments.png
+SHA1-Digest: 8m1ULKBSeNtOu4DwcBdpK+sSb8A=
+
+Name: res/drawable-hdpi/wifi_cancel.png
+SHA1-Digest: h8sZX6ypsUzt4IveCGVGpsdFCTA=
+
+Name: res/drawable-xhdpi/skyblue_logo_qzone.png
+SHA1-Digest: BMcbBzK4BPlDZnSg+vjRpirKnUQ=
+
+Name: res/drawable-xhdpi/logo_sinaweibo.png
+SHA1-Digest: CsfppKIyRI6USroAlDnRYR3ptEA=
+
+Name: assets/cfg/h/DVVersion.cfg
+SHA1-Digest: JjUkhjmYUlWY9mO6cTTs7Cq1krI=
+
+Name: assets/Icon_mark7.png
+SHA1-Digest: sKKD7pJZIL+05Zj8WfN2Iu+BqSU=
+
+Name: res/drawable-xhdpi/skyblue_logo_wechatmoments_checked.png
+SHA1-Digest: q4emQ6Ys2q95U3GIH0dDqX//XvM=
+
+Name: res/drawable/web_refresh.xml
+SHA1-Digest: b5rSBj/ypk2EJ5qazqUYGPmDaGo=
+
+Name: res/drawable-xhdpi/skyblue_logo_qq.png
+SHA1-Digest: z5bEP1fdVQPprvplahiukd//JWI=
+
+Name: res/drawable-xhdpi/skyblue_logo_dropbox.png
+SHA1-Digest: lnOQwcn4cwygNDFQBjQpRok/XCM=
+
+Name: res/drawable-xhdpi/skyblue_logo_line.png
+SHA1-Digest: Nr62ij6mKO3YK9OAS/DpDVrXoIw=
+
+Name: res/drawable-xhdpi/skyblue_logo_sinaweibo.png
+SHA1-Digest: MZ3KM28yNE+sGubfQBDnkcInsz8=
+
+Name: res/drawable-xhdpi/icon_q.png
+SHA1-Digest: PIpzAbqqGQy3EEsy82TodR8lWoE=
+
+Name: res/drawable-xhdpi/skyblue_logo_douban_checked.png
+SHA1-Digest: jeIZHoAJ0cmQ6KEmHYsoe32ohDM=
+
+Name: res/drawable-xhdpi/logo_instapaper.png
+SHA1-Digest: jhWkyVf15pr1PmKZAopLnCqXyBs=
+
+Name: res/drawable-xhdpi/logo_shortmessage.png
+SHA1-Digest: a2Tz3Cg/Bly7PHtb/frO8yH/Ybk=
+
+Name: res/layout/notif.xml
+SHA1-Digest: X6S+Tggznq8twe27NNRSCwEw8YQ=
+
+Name: res/anim/push_bottom_in.xml
+SHA1-Digest: M88SgJxlbCHEyMCZ6tHgFUQejKw=
+
+Name: assets/VerDatset.dat
+SHA1-Digest: EZNz+7LbA2cS33LsmybAwoQN+7E=
+
+Name: assets/cfg/h/DVHotMap.cfg
+SHA1-Digest: LQmgSNG41VbYnU1yOUfp4jS15Zs=
+
+Name: res/drawable-xhdpi/conect_wifi4.png
+SHA1-Digest: rZf6Ez31/Wq5P3d8si4CON9hwAg=
+
+Name: res/drawable-xhdpi/icon_h.png
+SHA1-Digest: H4W011MxeZCHVnx+0ighCrAh5dY=
+
+Name: res/drawable-xhdpi/skyblue_logo_kakaostory.png
+SHA1-Digest: fz0gUn1HdhF3Ls3VQCBxz9zcMG0=
+
+Name: assets/izj-yinsi.html
+SHA1-Digest: KX5OZf6FJS0hxi1/7qf9sYYoG6c=
+
+Name: res/drawable-xhdpi/actionbar_clip_icon.png
+SHA1-Digest: vzNNojmeC1g5m6WWR5ez+sVME2U=
+
+Name: res/drawable-xhdpi/skyblue_logo_pinterest.png
+SHA1-Digest: lHYnXTLW6v9sDl57uaTYu/6n2NE=
+
+Name: res/drawable-xhdpi/skyblue_logo_kakaostory_checked.png
+SHA1-Digest: aDr5R258V2DFztmGw5FGMuWWHrE=
+
+Name: res/drawable-xhdpi/logo_facebook.png
+SHA1-Digest: piJUVqxys3jTJlcx7kEANmv088g=
+
+Name: res/anim/conect_loading.xml
+SHA1-Digest: sAVZDbmfZ/eI9MaXekMpcYt2+LU=
+
+Name: assets/cfg/a/trafficstyle.sty
+SHA1-Digest: TF3GeDjRK3lbaILG27zGdn5CGE8=
+
+Name: res/drawable-hdpi/loading6_lan.png
+SHA1-Digest: tjEhw9wGNF6qJ5QXjpvuUMk/LzM=
+
+Name: res/drawable-xhdpi/logo_yixinmoments.png
+SHA1-Digest: yOHeCDuZ4Pny/1OCO+L9w4wMick=
+
+Name: res/drawable-xhdpi/skyblue_logo_facebook_checked.png
+SHA1-Digest: g4h2BnVv/+jiRoSUOpJL80JEkjE=
+
+Name: res/layout/download_list_item.xml
+SHA1-Digest: eEy2UeLgtNnT0djjQ+Xhd50DbzA=
+
+Name: res/drawable-xhdpi/icon_shuad.png
+SHA1-Digest: oWhAw9wa+IupyFCLMMuG57NPIcQ=
+
+Name: res/drawable-xhdpi/pushmsg_icon.png
+SHA1-Digest: nxfjL4DWQA8S+2hBVN0GbpQrK1M=
+
+Name: res/drawable-xhdpi/skyblue_logo_laiwangmoments_checked.png
+SHA1-Digest: 6ALJXhEChYNSpGT/+7XCK9XXdoY=
+
+Name: res/drawable-xhdpi/skyblue_logo_tumblr_checked.png
+SHA1-Digest: y3p5uPOSqhbFeG6nCl9ou2JzI3k=
+
+Name: res/drawable-xhdpi/logo_laiwangmoments.png
+SHA1-Digest: lfgAwp3OxIHIGMDGbRgKl1yGS8s=
+
+Name: lib/armeabi/libBaiduMapSDK_v3_2_0_15.so
+SHA1-Digest: q1HaPsG7AiPcPXDucCuoph2Fsm4=
+
+Name: res/layout/wifi_item2.xml
+SHA1-Digest: Dw+UwZ0Ee1cDHfGWql1uXeDcTnk=
+
+Name: res/drawable-xhdpi/re_01.png
+SHA1-Digest: jUu04smIEjvay2sPXDX7o5WKdwA=
+
+Name: res/drawable-xhdpi/connectbg_bottom.png
+SHA1-Digest: 2goDmVOR2eb1qkSMEYWhvOs5G3I=
+
+Name: res/drawable-xhdpi/skyblue_logo_baidutieba_checked.png
+SHA1-Digest: cPp1SjgjCzU8+Frycw4b91A80d0=
+
+Name: res/drawable-xhdpi/skyblue_logo_yixin_checked.png
+SHA1-Digest: PUsGUKPuDbXMz4/ulmuOd0aKYMA=
+
+Name: res/drawable/btn_refresh.xml
+SHA1-Digest: zw1sy5xkUkSLvxYPyOAXbdwz9So=
+
+Name: res/drawable-xhdpi/message_item_spread.png
+SHA1-Digest: DruvWl1g2qyL/ELa//hZsOVhuy8=
+
+Name: res/layout/main.xml
+SHA1-Digest: zjalurdEGreW7YQKyMrVNThz08M=
+
+Name: res/drawable-hdpi/huncun10.png
+SHA1-Digest: tYhhlZDa2f25JpW899fuJ67yNNk=
+
+Name: res/drawable-hdpi/huncun5.png
+SHA1-Digest: fU0XJKuHVDtUaluokZ7+g3WEkIA=
+
+Name: res/drawable-xhdpi/skyblue_logo_email_checked.png
+SHA1-Digest: KdYmSgB2ykwuttgvpDLqNfnI0wc=
+
+Name: res/drawable-xhdpi/skyblue_editpage_image_bg.9.png
+SHA1-Digest: rSb/UcjpSPAazqb0dm1UOxpwsF4=
+
+Name: assets/cfg/l/DVDirectory.cfg
+SHA1-Digest: sRW1J/dOTCke3KqxmzFqRGrKj1s=
+
+Name: res/drawable-xhdpi/ssdk_title_div.png
+SHA1-Digest: DloK2NAixcsnyoNpzHoN1vuEAzU=
+
+Name: res/drawable-xhdpi/auth_follow_cb_chd.png
+SHA1-Digest: XRvmpZADzcwYRVQhbiXBiVbiwvw=
+
+Name: res/drawable-xhdpi/icon_qd.png
+SHA1-Digest: BV61uY4kN3W3r55VqOZ3FmOejys=
+
+Name: assets/logo_h.png
+SHA1-Digest: NiIXDIWMhuIXwHmFVSalyGsn3g0=
+
+Name: res/drawable-xhdpi/connect_bg.png
+SHA1-Digest: U2+uQUj24/75jTivxhrAlnu3yro=
+
+Name: res/drawable-xhdpi/icon_times.png
+SHA1-Digest: mVwH2Nqsq6EYMyUGMEtC2t+bqH0=
+
+Name: res/drawable-xhdpi/login_backgroud.png
+SHA1-Digest: vFrC7i9cZ5VZBSxzaDLnflJmLFg=
+
+Name: res/drawable-xhdpi/niu01.png
+SHA1-Digest: 8gVaZTENTpGJQllU3oQaJpDjowI=
+
+Name: org/xbill/DNS/windows/DNSServer.properties
+SHA1-Digest: 31mXZOJqh2QSPscpoAjYtaNl42k=
+
+Name: res/drawable/classic_platform_corners_bg.xml
+SHA1-Digest: w8g3q9huSgY8YosXI70sLXH036I=
+
+Name: res/drawable-xhdpi/connectbg_head.png
+SHA1-Digest: TndNsltSmnSKu1Eh+tYF4F2vsCU=
+
+Name: assets/Icon_mark8.png
+SHA1-Digest: vJHMIXsi8SPI0zapgfknlq2wAkE=
+
+Name: res/drawable-xhdpi/logo_renren.png
+SHA1-Digest: UclB2VYHlAlsuNNMrJkFoBcl8hI=
+
+Name: res/drawable-xhdpi/skyblue_logo_youdao_checked.png
+SHA1-Digest: BwZDgwOJUq9rMdFUQFJpY9/47KI=
+
+Name: res/drawable-xhdpi/connect_other.png
+SHA1-Digest: UmwGl5v0gX4Ac3nP5b/DGvlxyNw=
+
+Name: res/drawable-xhdpi/edittext_back.9.png
+SHA1-Digest: MckapfoGDrtqi6hM5gmfdvtVuOo=
+
+Name: res/drawable-xhdpi/line_white.png
+SHA1-Digest: CEXkv7QaXtNp3dtSOO7EddsCi2w=
+
+Name: res/layout/findpass_checkmsg.xml
+SHA1-Digest: k/lqBo9ROHSQFDyBVg80teCzRFk=
+
+Name: res/drawable-xhdpi/skyblue_logo_mingdao.png
+SHA1-Digest: Uy0ILMhYFMFLUKOy27/92DoaqwE=
+
+Name: res/drawable-hdpi/close_d.png
+SHA1-Digest: 3G6Rch01DebzJfkejhFqZGOmGio=
+
+Name: res/layout/person_infomation.xml
+SHA1-Digest: yQ6LxriS6bQori4CMgYtE75TjNU=
+
+Name: res/drawable-xhdpi/line_green.png
+SHA1-Digest: SHP6oBPVpibm0Ou7AK571+RuerY=
+
+Name: assets/cfg/h/DVHotcity.cfg
+SHA1-Digest: jE42/aHh+AkYo6jxgSxOaLIyak8=
+
+Name: res/drawable-xhdpi/ssdk_logo.png
+SHA1-Digest: HIt2w5nGrGRMEzuoWuXFFeykfU4=
+
+Name: res/drawable-hdpi/huncun0.png
+SHA1-Digest: LN3jPx94T/KGegIzwb025niQAhc=
+
+Name: res/drawable-xhdpi/skyblue_logo_foursquare.png
+SHA1-Digest: g8gR6icP+IKE25mWXl7B4W+2AzM=
+
+Name: res/drawable-xhdpi/skyblue_logo_sinaweibo_checked.png
+SHA1-Digest: Kulfk871JU3GtJcYNIc2qrDhwIU=
+
+Name: res/drawable-hdpi/tan_kuang.png
+SHA1-Digest: eGLa6d2ufFCwgorZVm+B6DEz3YQ=
+
+Name: res/drawable-xhdpi/skyblue_logo_youdao.png
+SHA1-Digest: 1609/0hV1dsNrBs+h0km+47cI+c=
+
+Name: res/drawable-hdpi/huncun8.png
+SHA1-Digest: lsxe+VG2J1zcHj0KP4G9ytVvbYU=
+
+Name: res/drawable-xhdpi/map_big.png
+SHA1-Digest: 4TaVaWkINdBAsjPLUQX/mSh0PdU=
+
+Name: res/drawable-xhdpi/logo_sohusuishenkan.png
+SHA1-Digest: /wnkEd+7eD35JRHXdIpZWWAvf/k=
+
+Name: res/drawable-hdpi/btn_msg2.png
+SHA1-Digest: oCeuIUoTFLoV9Oze+Z+gtRzgu+8=
+
+Name: res/drawable-xhdpi/connect_ok.png
+SHA1-Digest: aPx+9OmG7jWevHfnijKorjRSc3Y=
+
+Name: res/drawable-xhdpi/push_nomessage.png
+SHA1-Digest: cBLEbPwKfh4rWV5L4DtteHKm9yM=
+
+Name: res/drawable-xhdpi/skyblue_logo_yixinmoments_checked.png
+SHA1-Digest: usC0FWYD6HxXeorNBkqQY8rVThM=
+
+Name: pinyindb/unicode_to_hanyu_pinyin.txt
+SHA1-Digest: VsW4H4V79T+KZVjmtv09g6HXq/A=
+
+Name: res/drawable-xhdpi/skyblue_logo_whatsapp_checked.png
+SHA1-Digest: /jlMMHUWSMlFJ+evjPYpYSP9d/M=
+
+Name: lib/armeabi/libweibosdkcore.so
+SHA1-Digest: Y8MqLHzruqdbiEkNCGS1xRTqpGM=
+
+Name: res/drawable-xhdpi/wifi_on.png
+SHA1-Digest: aYmF03PkLVTRlE92YXckI3WSFKQ=
+
+Name: res/drawable-hdpi/line.png
+SHA1-Digest: 6WJ8zNQuYU0Vvn7QnqjfkCA2eAM=
+
+Name: res/drawable-xhdpi/pin.png
+SHA1-Digest: tkJyNZCYIH5408q/BJl7FHhCnrc=
+
+Name: res/drawable-xhdpi/regist_commit.png
+SHA1-Digest: j0GTnbtRfzFraL6mpvPbr+0cadk=
+
+Name: res/drawable-xhdpi/skyblue_logo_instapaper.png
+SHA1-Digest: UQhfUim8A/vWb8xJlXoGtV6oiWg=
+
+Name: res/drawable-xhdpi/skyblue_logo_vkontakte_checked.png
+SHA1-Digest: Mx0LwTzcD87CVXlCrXGLu/QeNqE=
+
+Name: res/drawable-xhdpi/connect_type.png
+SHA1-Digest: 5+jlJJ26Crh2IQSy52V+ZJ7tNWo=
+
+Name: res/drawable-xhdpi/logo_flickr.png
+SHA1-Digest: rzfSm+FwntK4tVkEiBZlXV2gjpQ=
+
+Name: res/drawable-xhdpi/skyblue_logo_dropbox_checked.png
+SHA1-Digest: L8uHeHUe7yBwKmbczBjgijBEinM=
+
+Name: res/layout/alert_dialog.xml
+SHA1-Digest: GYi/XDZWsGbw6eXjQDKjWfaI4mM=
+
+Name: res/drawable-xhdpi/logo_laiwang.png
+SHA1-Digest: nGcwvlk7Pwxxyor+v2nVHT+qWO0=
+
+Name: res/drawable-xhdpi/skyblue_logo_googleplus_checked.png
+SHA1-Digest: o4loFVp6GifEHe12nt7LhnnUyXI=
+
+Name: assets/cfg/a/satellitestyle.sty
+SHA1-Digest: WZ95lIU7Ybxe4Jp1tjg6E6Wmhfc=
+
+Name: res/drawable/wifi_cancel.xml
+SHA1-Digest: OMaHuhmiZxZaLHjLuCVXXfZh0Pg=
+
+Name: res/drawable-hdpi/loading7_lan.png
+SHA1-Digest: JT28tCRMWNm4deDkTTXC8qED+q0=
+
+Name: assets/Icon_mark1.png
+SHA1-Digest: RMqITX92JYEbzb7P/39eL+9AfT0=
+
+Name: res/layout/skyblue_share_platform_list.xml
+SHA1-Digest: OhdAmxuhNjHQivkjnr4nAMtEXfQ=
+
+Name: res/layout/index.xml
+SHA1-Digest: j1f0xen51Aaz+Xq5sJfmloZAhjw=
+
+Name: res/drawable-xhdpi/skyblue_logo_twitter.png
+SHA1-Digest: eihcoRBDg1aU0w/5JyZMRXn8dOQ=
+
+Name: res/drawable-xhdpi/logo_qq.png
+SHA1-Digest: rGbqeKK4SIiunyk+LxzQw9BGtQU=
+
+Name: res/layout/string_cache_item.xml
+SHA1-Digest: 2gh2Sbuo0hvmY/S2m587nZce+LI=
+
+Name: res/drawable-xhdpi/login_commit.jpg
+SHA1-Digest: 2goQ87g7ebIA5lNb8FEsXDbe+vU=
+
+Name: assets/cfg/a/ResPack.cfg
+SHA1-Digest: LlQ3XN5601ZmGE9ceutl1Yh/dGw=
+
+Name: res/layout/main_around.xml
+SHA1-Digest: BIU5DRl+kywp73l87enODqX9f18=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: res/drawable-xhdpi/skyblue_logo_sohumicroblog.png
+SHA1-Digest: wNZEO/0ZsxJboLnC/iN9/LPVJ8g=
+
+Name: res/drawable-hdpi/wifi_ok_d.png
+SHA1-Digest: 2xAe9i4l433ux0fo49LAIZfUOxY=
+
+Name: res/drawable-xhdpi/icon_background.png
+SHA1-Digest: RGD5VWfqoe7VOM+6nBHizY8JTyU=
+
+Name: res/drawable-hdpi/liu_bei.png
+SHA1-Digest: Ce1eEYBuV+K0FsCw+2FcOiVxjEA=
+
+Name: res/drawable-hdpi/loading2_lan.png
+SHA1-Digest: qRUqUbMZVrIoy1f4RmKE+TNMlvg=
+
+Name: assets/icon_scale.9.png
+SHA1-Digest: qIUctUAkthqkey8qZs8wMv+8+ow=
+
+Name: res/drawable-xhdpi/main_message.png
+SHA1-Digest: MwNczxYm5v6JzcSMRM7ZaRCWIaQ=
+
+Name: res/drawable-xhdpi/skyblue_logo_wechat_checked.png
+SHA1-Digest: V+oqqhtS6tC6kxKh9MVqSEeEbOc=
+
+Name: res/drawable-hdpi/tui.png
+SHA1-Digest: MhnIFYwmYtRh2oLLg/mzDalGCls=
+
+Name: res/drawable-xhdpi/skyblue_logo_neteasemicroblog.png
+SHA1-Digest: /rV4R5Mq9VG4F/nAUyZlGUtHX9s=
+
+Name: res/drawable-xhdpi/logo_yixin.png
+SHA1-Digest: Ynx6j0DvqB1R0Ntigj8oKizYcLo=
+
+Name: res/drawable-xhdpi/map_dialog.png
+SHA1-Digest: l8xQDDs5QIA46AtdtzRqPzh+mX8=
+
+Name: res/drawable-xhdpi/skyblue_platform_checked.png
+SHA1-Digest: xbJ+ymhGGTrPNyqOFtWZ+ls29tY=
+
+Name: res/drawable-hdpi/iwifi_logo2.png
+SHA1-Digest: JOBw5WJnYh8AZaUrCn5vmiS7GEQ=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: res/drawable-xhdpi/logo_wechatmoments.png
+SHA1-Digest: ZO2E9To4ai1HUSZU0ie/+5Jdvy0=
+
+Name: res/drawable-xhdpi/logo_pinterest.png
+SHA1-Digest: V+j2izib2w7IeIZxgFbLOivyrDg=
+
+Name: res/drawable/skyblue_platform_list_item.xml
+SHA1-Digest: CT7T8KxNHcPCUNih0qsUSBesFzk=
+
+Name: res/drawable-ldpi/iwifi_logo2.png
+SHA1-Digest: JOBw5WJnYh8AZaUrCn5vmiS7GEQ=
+
+Name: res/drawable-xhdpi/tab_application1.png
+SHA1-Digest: s1oPyKES/CTuZFVlbMjfYKKRUUI=
+
+Name: res/layout/list_item_message_layout.xml
+SHA1-Digest: cW+XYVU7YO5QvBJM6Uo1O9/0mWo=
+
+Name: res/drawable-xhdpi/login_bg.png
+SHA1-Digest: 1a536rrVJ+2qvy+BF87GxIsHqNE=
+
+Name: res/drawable-xhdpi/ssdk_auth_title_back.png
+SHA1-Digest: KcOU9zRA4LnWnGrzTb4Jvm+VpMQ=
+
+Name: res/drawable-xhdpi/skyblue_logo_sohusuishenkan_checked.png
+SHA1-Digest: L2o2qk7m/2PGRidHU0EHrAhgDTw=
+
+Name: assets/cfg/l/DVHotcity.cfg
+SHA1-Digest: pYRdHEvIe4tHhbRW127cuDCe2k4=
+
+Name: res/drawable-hdpi/btn_msg1.png
+SHA1-Digest: ZNwNP+dklOJ5StRnXUo7IyyAU20=
+
+Name: res/drawable-hdpi/shuaxin.png
+SHA1-Digest: mU9ZuPODBIymDCrqZeT3bXLWuXI=
+
+Name: res/drawable/web_off.xml
+SHA1-Digest: 1eEP/UbtXlAcp7qaFGOielN2n1g=
+
+Name: res/drawable-xhdpi/connect_union.png
+SHA1-Digest: +FfgPiAyazRZJqcI7KXZyz2/yno=
+
+Name: res/drawable-xhdpi/img_cancel.png
+SHA1-Digest: NsZVk5t/jVR+MDbSD8IrRZ2uWkM=
+
+Name: res/drawable-hdpi/huncun7.png
+SHA1-Digest: lsxe+VG2J1zcHj0KP4G9ytVvbYU=
+
+Name: res/menu/main.xml
+SHA1-Digest: Yre6sAZkPhn/JDxDdY4Z9cY/7Sw=
+
+Name: res/drawable-xhdpi/tab_ssid2.png
+SHA1-Digest: ci+NJsTGph1Q6+5xlynA/kva38s=
+
+Name: res/drawable-xhdpi/btn_back_nor.9.png
+SHA1-Digest: PkrrhzSS4LlDlm1qP6Q22ss9iqk=
+
+Name: res/drawable-xhdpi/skyblue_logo_neteasemicroblog_checked.png
+SHA1-Digest: Q3TH2Y3262J36uqhiRjGocrT/Rk=
+
+Name: res/drawable/skyblue_platform_list_selector.xml
+SHA1-Digest: fgaHI2kDJvPNmo3Gw2ek1mkLtRs=
+
+Name: res/drawable-hdpi/tui_d.png
+SHA1-Digest: 4ErZiZHxYhD6curRjZeu7fpQ1t0=
+
+Name: res/drawable-xhdpi/skyblue_logo_instapaper_checked.png
+SHA1-Digest: Npv7k1Ej/dq1H39q1aOZaDfw/K0=
+
+Name: res/drawable-xhdpi/connect_othernet.png
+SHA1-Digest: OQ2aUFPv33RHv8CsHfgDsd4rvu0=
+
+Name: res/drawable-xhdpi/skyblue_logo_wechatmoments.png
+SHA1-Digest: TflSNm/Jl3/CDVxRHpsxyiDyjQw=
+
+Name: assets/Icon_mark9.png
+SHA1-Digest: Hr7HMZrDP8VeXS+315R/nFkbCwY=
+
+Name: res/drawable-xhdpi/message_item_retract.png
+SHA1-Digest: JtAwEgky3OhnGz7WC764tISg75c=
+
+Name: res/layout/main_my.xml
+SHA1-Digest: Y3BjJCWa3SIIiRpMYN0wMvSnZmU=
+
+Name: res/drawable-xhdpi/connect_faillogo.png
+SHA1-Digest: 1l90gZiBdEB7xI1csXrWMsYS1jg=
+
+Name: res/drawable-xhdpi/logo_googleplus.png
+SHA1-Digest: OTMRB1YHOgrfDUEBKFFU6kLeybg=
+
+Name: classes.dex
+SHA1-Digest: Fv1pC+RrfkT2KNLIpKkmjyzHyKo=
+
+Name: res/drawable-xhdpi/skyblue_logo_flickr.png
+SHA1-Digest: 4ZAgZ0zxQ1eOfQcGzFn5JvbggrU=
+
+Name: res/drawable-xhdpi/skyblue_logo_baidutieba.png
+SHA1-Digest: l68WV7pjjtX79frbX3BHrY2Vic0=
+
+Name: res/drawable-xhdpi/wifi_ignal.png
+SHA1-Digest: oK8gwzi6Wlpp7sKP4H1nbDnn2Xs=
+

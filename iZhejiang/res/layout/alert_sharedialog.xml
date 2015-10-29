@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/pop_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <Button android:textStyle="bold" android:id="@id/btn_zan" android:background="@drawable/login_problem_bg" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="赞" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="0.5dip" android:src="@drawable/line" android:scaleType="fitXY" />
+        <Button android:textStyle="bold" android:id="@id/btn_coment" android:background="@drawable/login_problem_bg" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="评论" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="0.5dip" android:src="@drawable/line" android:scaleType="fitXY" />
+        <Button android:textStyle="bold" android:id="@id/btn_share" android:background="@drawable/login_problem_bg" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="分享" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="0.5dip" android:src="@drawable/line_green" android:scaleType="fitXY" />
+        <Button android:textStyle="bold" android:textColor="@color/findpassword_text_color" android:id="@id/btn_cancel" android:background="@drawable/login_problem_bg" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="取消" />
+    </LinearLayout>
+</RelativeLayout>

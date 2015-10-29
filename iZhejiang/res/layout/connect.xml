@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/main" android:background="@color/color_text_white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/relativeLayout1" android:background="@color/color_green" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <ImageButton android:id="@id/btn_back" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:src="@drawable/back" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="23.0sp" android:textColor="@color/color_text_white" android:id="@id/common_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/login_title" android:layout_centerInParent="true" />
+        <RelativeLayout android:id="@id/share" android:visibility="invisible" android:layout_width="60.0dip" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerInParent="true">
+            <ImageView android:background="@drawable/connect_other" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <include android:id="@id/scroll" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/relativeLayout1" layout="@layout/scroll" />
+</RelativeLayout>

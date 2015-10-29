@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@color/color_text_white" android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/relativeLayout2" android:background="@drawable/connect_bg" android:layout_width="fill_parent" android:layout_height="220.0dip">
+            <RelativeLayout android:id="@id/connect_icon" android:background="@drawable/connectbg_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/relativeLayout1" android:layout_centerHorizontal="true">
+                <RelativeLayout android:id="@id/logo" android:background="@anim/conect_loading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+                    <ImageView android:background="@drawable/connectbg_head" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/relativelayout3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/connect_icon" android:layout_centerInParent="true">
+                <ImageView android:id="@id/iv_tag" android:background="@drawable/connect_ok" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/num_background_white" android:id="@id/tv_msg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="连接成功" android:singleLine="true" android:layout_toRightOf="@id/iv_tag" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/relativelayout3" android:layout_alignParentBottom="true">
+                <RelativeLayout android:gravity="center" android:id="@id/rl_network" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                    <ImageView android:background="@drawable/connect_ping" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </RelativeLayout>
+                <ImageView android:background="@drawable/line_white" android:layout_width="0.5dip" android:layout_height="20.0dip" />
+                <RelativeLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                    <ImageView android:id="@id/iv_type" android:background="@drawable/connect_typeotherdefault" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </RelativeLayout>
+                <ImageView android:background="@drawable/line_white" android:layout_width="0.5dip" android:layout_height="20.0dip" />
+                <RelativeLayout android:gravity="center" android:id="@id/rl_safety" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+                    <ImageView android:id="@id/tv_safety" android:background="@drawable/connect_unsafety" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center" android:id="@id/edit1" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/relativeLayout2">
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="网络提供商" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:id="@id/tv1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="未知" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ImageView android:id="@id/line1" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit1" />
+        <RelativeLayout android:gravity="center" android:id="@id/edit2" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/line1">
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="已连接" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:id="@id/tv2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="未知" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ImageView android:id="@id/line2" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit2" />
+        <RelativeLayout android:gravity="center" android:id="@id/edit3" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/line2">
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="负载" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:id="@id/tv3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="未知" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ImageView android:id="@id/line3" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit3" />
+        <RelativeLayout android:gravity="center" android:id="@id/edit4" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/line3">
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="连接人数" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:id="@id/tv4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="未知" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ImageView android:id="@id/line4" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit4" />
+        <RelativeLayout android:gravity="center" android:id="@id/edit5" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/line4">
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="好评" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/country_text_color" android:id="@id/tv5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="未知" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ImageView android:id="@id/line5" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit5" />
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:id="@id/btn_commit" android:background="@drawable/login_commit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="70.0dip" android:layout_marginRight="14.0dip" android:layout_marginBottom="10.0dip" android:text="断开连接" android:layout_toLeftOf="@id/line5" android:layout_centerHorizontal="true" />
+    </LinearLayout>
+</ScrollView>

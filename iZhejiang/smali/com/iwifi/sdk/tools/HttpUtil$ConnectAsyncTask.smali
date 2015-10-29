@@ -1,0 +1,181 @@
+.class Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;
+.super Landroid/os/AsyncTask;
+.source "HttpUtil.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/iwifi/sdk/tools/HttpUtil;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x2
+    name = "ConnectAsyncTask"
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Landroid/os/AsyncTask",
+        "<",
+        "Ljava/lang/String;",
+        "Ljava/lang/Void;",
+        "Ljava/lang/Boolean;",
+        ">;"
+    }
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+
+# direct methods
+.method private constructor <init>(Lcom/iwifi/sdk/tools/HttpUtil;)V
+    .locals 0
+
+    .prologue
+    .line 133
+    iput-object p1, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    invoke-direct {p0}, Landroid/os/AsyncTask;-><init>()V
+
+    return-void
+.end method
+
+.method synthetic constructor <init>(Lcom/iwifi/sdk/tools/HttpUtil;Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;)V
+    .locals 0
+
+    .prologue
+    .line 133
+    invoke-direct {p0, p1}, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;-><init>(Lcom/iwifi/sdk/tools/HttpUtil;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method protected varargs doInBackground([Ljava/lang/String;)Ljava/lang/Boolean;
+    .locals 5
+    .param p1, "params"    # [Ljava/lang/String;
+
+    .prologue
+    .line 137
+    iget-object v0, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    iget-object v1, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    # getter for: Lcom/iwifi/sdk/tools/HttpUtil;->mStrUrl:Ljava/lang/String;
+    invoke-static {v1}, Lcom/iwifi/sdk/tools/HttpUtil;->access$0(Lcom/iwifi/sdk/tools/HttpUtil;)Ljava/lang/String;
+
+    move-result-object v1
+
+    iget-object v2, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    # getter for: Lcom/iwifi/sdk/tools/HttpUtil;->mStrMethodName:Ljava/lang/String;
+    invoke-static {v2}, Lcom/iwifi/sdk/tools/HttpUtil;->access$1(Lcom/iwifi/sdk/tools/HttpUtil;)Ljava/lang/String;
+
+    move-result-object v2
+
+    iget-object v3, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    # getter for: Lcom/iwifi/sdk/tools/HttpUtil;->mStrAction:Ljava/lang/String;
+    invoke-static {v3}, Lcom/iwifi/sdk/tools/HttpUtil;->access$2(Lcom/iwifi/sdk/tools/HttpUtil;)Ljava/lang/String;
+
+    move-result-object v3
+
+    iget-object v4, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    # getter for: Lcom/iwifi/sdk/tools/HttpUtil;->mListParams:Ljava/util/List;
+    invoke-static {v4}, Lcom/iwifi/sdk/tools/HttpUtil;->access$3(Lcom/iwifi/sdk/tools/HttpUtil;)Ljava/util/List;
+
+    move-result-object v4
+
+    # invokes: Lcom/iwifi/sdk/tools/HttpUtil;->excuteConnect(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)V
+    invoke-static {v0, v1, v2, v3, v4}, Lcom/iwifi/sdk/tools/HttpUtil;->access$4(Lcom/iwifi/sdk/tools/HttpUtil;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)V
+
+    .line 138
+    const/4 v0, 0x0
+
+    return-object v0
+.end method
+
+.method protected bridge varargs synthetic doInBackground([Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 1
+
+    .prologue
+    .line 1
+    check-cast p1, [Ljava/lang/String;
+
+    invoke-virtual {p0, p1}, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->doInBackground([Ljava/lang/String;)Ljava/lang/Boolean;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method protected onPostExecute(Ljava/lang/Boolean;)V
+    .locals 4
+    .param p1, "result"    # Ljava/lang/Boolean;
+
+    .prologue
+    .line 144
+    invoke-super {p0, p1}, Landroid/os/AsyncTask;->onPostExecute(Ljava/lang/Object;)V
+
+    .line 146
+    :try_start_0
+    iget-object v1, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    iget-object v2, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    # getter for: Lcom/iwifi/sdk/tools/HttpUtil;->mStrResult:Ljava/lang/String;
+    invoke-static {v2}, Lcom/iwifi/sdk/tools/HttpUtil;->access$5(Lcom/iwifi/sdk/tools/HttpUtil;)Ljava/lang/String;
+
+    move-result-object v2
+
+    iget-object v3, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    # getter for: Lcom/iwifi/sdk/tools/HttpUtil;->mBTimeOut:Z
+    invoke-static {v3}, Lcom/iwifi/sdk/tools/HttpUtil;->access$6(Lcom/iwifi/sdk/tools/HttpUtil;)Z
+
+    move-result v3
+
+    invoke-virtual {v1, v2, v3}, Lcom/iwifi/sdk/tools/HttpUtil;->taskexecute(Ljava/lang/String;Z)V
+
+    .line 147
+    iget-object v1, p0, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->this$0:Lcom/iwifi/sdk/tools/HttpUtil;
+
+    const/4 v2, 0x0
+
+    invoke-static {v1, v2}, Lcom/iwifi/sdk/tools/HttpUtil;->access$7(Lcom/iwifi/sdk/tools/HttpUtil;Ljava/lang/String;)V
+
+    .line 148
+    invoke-static {}, Ljava/lang/System;->gc()V
+    :try_end_0
+    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
+
+    .line 152
+    :goto_0
+    return-void
+
+    .line 149
+    :catch_0
+    move-exception v0
+
+    .line 150
+    .local v0, "e":Ljava/lang/Exception;
+    invoke-virtual {v0}, Ljava/lang/Exception;->printStackTrace()V
+
+    goto :goto_0
+.end method
+
+.method protected bridge synthetic onPostExecute(Ljava/lang/Object;)V
+    .locals 0
+
+    .prologue
+    .line 1
+    check-cast p1, Ljava/lang/Boolean;
+
+    invoke-virtual {p0, p1}, Lcom/iwifi/sdk/tools/HttpUtil$ConnectAsyncTask;->onPostExecute(Ljava/lang/Boolean;)V
+
+    return-void
+.end method

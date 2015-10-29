@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/main" android:background="@color/color_text_white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_gravity="bottom|center" android:id="@id/loading" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/page_inner_loading" />
+    <include android:id="@id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="48.0dip" layout="@layout/common_title" />
+    <RelativeLayout android:id="@id/logo" android:background="@drawable/head_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/relativeLayout1" android:layout_centerHorizontal="true">
+        <ImageView android:background="@drawable/head_backgroud" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/edit1" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="20.0dip" android:layout_below="@id/logo">
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="@string/myphone" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:id="@id/tv_phone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0dip" android:text="15305812720" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ImageView android:id="@id/line1" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit1" />
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/edit2" android:background="@drawable/login_backgroud" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_below="@id/line1">
+        <TextView android:textSize="18.0sp" android:textColor="@color/title_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:text="@string/myname" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/regist_text_color" android:id="@id/tv_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0dip" android:hint="编辑昵称" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ImageView android:id="@id/line2" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:src="@drawable/line" android:scaleType="fitXY" android:layout_below="@id/edit2" />
+    <Button android:textSize="20.0sp" android:textColor="@color/white" android:id="@id/btn_zhuxiao" android:background="@drawable/zhuxiao_commit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:layout_marginBottom="20.0dip" android:text="注销" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

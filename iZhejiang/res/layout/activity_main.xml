@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffdbdbdb" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/fragmentRoot" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/bottomList" android:background="@color/leter_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <LinearLayout style="@style/linaer_bottom">
+            <RadioButton android:id="@id/ssid_bt" android:background="@drawable/tab_ssid2" style="@style/rbt_bottom" />
+        </LinearLayout>
+        <LinearLayout style="@style/linaer_bottom">
+            <RadioButton android:id="@id/around_bt" android:background="@drawable/tab_around2" style="@style/rbt_bottom" />
+        </LinearLayout>
+        <LinearLayout style="@style/linaer_bottom">
+            <RadioButton android:id="@id/application_bt" android:background="@drawable/tab_application2" style="@style/rbt_bottom" />
+        </LinearLayout>
+        <LinearLayout style="@style/linaer_bottom">
+            <RadioButton android:id="@id/my_bt" android:background="@drawable/tab_my2" style="@style/rbt_bottom" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

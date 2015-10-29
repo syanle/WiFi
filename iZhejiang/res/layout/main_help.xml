@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:background="@color/color_green" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <TextView android:textSize="23.0sp" android:textColor="@color/color_text_white" android:id="@id/common_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/help_title" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>
